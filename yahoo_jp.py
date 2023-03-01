@@ -44,7 +44,7 @@ CHANNEL_IDS = {
     '0x7FE60x0430': 'cloventt-jp-tvtokyo',
 }
 
-ICON_URL_PREFIX = 'https://github.com/cloventt/epgxml/blob/main/icons/'
+ICON_URL_PREFIX = 'https://raw.githubusercontent.com/cloventt/epgxml/main/icons/'
 
 
 def format_date(ts: int):
