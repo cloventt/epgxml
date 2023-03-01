@@ -73,6 +73,7 @@ def convert():
 
     root = ET.Element('tv')
 
+    m3u_str = '#EXTM3U\n#EXT-X-VERSION:4\n'
     for _, c in channels_conf.items():
         channel = ET.SubElement(root, 'channel', {'id': c['id']})
         for lang, dn in c['display-name'].items():
@@ -80,7 +81,14 @@ def convert():
             e.text = dn
         ET.SubElement(channel, 'icon', {'src': ICON_URL_PREFIX + c['icon']})
 
+        if 'streamUrl' in c:
+            m3u_str += f"#EXTINF:-1 tvg-logo=\"{ICON_URL_PREFIX + c['icon']}\",{c['display-name']['en']}\n"
+            m3u_str += f"{c['streamUrl']}\n\n"
+
     logger.info("Created channel config elements")
+    logger.info("Writing out the m3u file")
+    with open(Path('__file__').parent / 'cloventt.jp.m3u8', 'w') as m3u:
+        m3u.write(m3u_str)
 
     start_time = int(time.time()) - (int(time.time()) % 3600) - 86400
     params = [
