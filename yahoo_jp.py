@@ -13,7 +13,7 @@ import xml.etree.ElementTree as ET
 import requests
 
 logger = logging.getLogger()
-logger.setLevel(logging.INFO)
+logger.setLevel(logging.DEBUG)
 handler = logging.StreamHandler(stream=sys.stdout)
 handler.setLevel(logging.DEBUG)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -259,6 +259,7 @@ def convert():
                     ET.SubElement(programme, 'icon', {'src': image})
 
                 genres = p.get('majorGenreId', [])
+                genres = set(genres)
                 for g in genres:
                     category = CATEGORIES.get(g, None)
                     if category:
