@@ -44,6 +44,40 @@ CHANNEL_IDS = {
     '0x7FE60x0430': 'cloventt-jp-tvtokyo',
 }
 
+"""
+Children
+Kids
+Pre-school
+
+Comedy
+Sitcom
+
+Animated
+
+Movies
+Musical
+
+Infotainment
+Lifestyle
+
+Knowledge
+Nature
+Wildlife
+
+Travel
+
+Adventure
+
+
+
+
+
+"""
+GENRE_IDS = {
+    '0x0': '',
+    '0x1': 'drama',
+}
+
 ICON_URL_PREFIX = 'https://raw.githubusercontent.com/cloventt/epgxml/main/icons/'
 
 
@@ -160,7 +194,30 @@ def convert():
                 image = p.get("featureImage", None)
                 if image:
                     ET.SubElement(programme, 'icon', {'src': image})
+
+                if p.get('programId', -1) > 0:
+                    print(p.get('programId'))
+                    req = requests.get(
+                        'https://tv.yahoo.co.jp/api/adapter?_api=mindsSiQuery',
+                        data={
+                            'programId': str(p.get('programId')),
+                            'results': 20,
+                            'areaId': param.get('areaId'),
+                            'sort': '+broadCastStartDate'
+                        })
+                    json1 = req.json()
+                    print(json1)
+                    if json1.get('ResultSet').get('Result', None):
+                        first = json1.get('ResultSet').get('Result')[0]
+                        for i in range(0, len(first.get('majorGenreId'))):
+                            print(first.get('majorGenreId')[i], first.get('majorGenreName')[i])
+                            GENRE_IDS['M' + first.get('majorGenreId')[i]] = first.get('majorGenreName')[i]
+                        for i in range(0, len(first.get('minorGenreId'))):
+                            print(first.get('minorGenreId')[i], first.get('minorGenreName')[i])
+                            GENRE_IDS['m' + first.get('minorGenreId')[i]] = first.get('minorGenreName')[i]
                 processed += 1
+
+            print(json.dumps(GENRE_IDS, ensure_ascii=False))
         logging.info("Added %s programmes for channel", processed)
 
     with open(Path('__file__').parent / 'cloventt.jp.epg.xml', 'wb') as epgxml:
