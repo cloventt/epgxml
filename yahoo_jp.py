@@ -48,7 +48,14 @@ ICON_URL_PREFIX = 'https://raw.githubusercontent.com/cloventt/epgxml/main/icons/
 
 
 def format_date(ts: int):
-    return datetime.datetime.utcfromtimestamp(ts).astimezone(tz=datetime.timezone.utc).strftime('%Y%m%d%H%M%S %z')
+    """
+    >>> format_date(1677725280)
+    '20230302024800 +0000'
+
+    :param ts: the timestamp to format (unix, seconds since 1970 UTC)
+    :return: the XMLTV formatted datetime
+    """
+    return datetime.datetime.utcfromtimestamp(ts).strftime('%Y%m%d%H%M%S ') + '+0000'
 
 
 def get_channel(network_id: str, service_id: str):
