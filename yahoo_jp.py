@@ -13,9 +13,9 @@ import xml.etree.ElementTree as ET
 import requests
 
 logger = logging.getLogger()
-logger.setLevel(logging.INFO)
+logger.setLevel(logging.DEBUG)
 handler = logging.StreamHandler(stream=sys.stdout)
-handler.setLevel(logging.INFO)
+handler.setLevel(logging.DEBUG)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 handler.setFormatter(formatter)
 logger.addHandler(handler)
@@ -128,6 +128,7 @@ def convert():
         req.raise_for_status()
 
         req_json = req.json()
+        logger.debug(json.dumps(req_json, indent=2))
         logging.info("Expect these results: %s", req_json['ResultSet']['attribute'])
         for p in req_json['ResultSet']["Result"]:
             channel = get_channel(p['networkId'], p['serviceId'])
@@ -149,6 +150,10 @@ def convert():
                 if 'summary' in p:
                     desc = ET.SubElement(programme, 'desc', {'lang': 'jp'})
                     desc.text = p.get('summary')
+                image = p.get("featureImage", None)
+                if image:
+                    image_e = ET.SubElement(programme, 'image')
+                    image_e.text = image
                 processed += 1
         logging.info("Added %s programmes for channel", processed)
 
