@@ -159,8 +159,7 @@ def convert():
                     desc.text = p.get('summary')
                 image = p.get("featureImage", None)
                 if image:
-                    image_e = ET.SubElement(programme, 'icon')
-                    image_e.text = image
+                    ET.SubElement(programme, 'icon', {'src': image})
                 processed += 1
         logging.info("Added %s programmes for channel", processed)
 
