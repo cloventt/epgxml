@@ -74,20 +74,6 @@
     <display-name lang="jp">BSフジ</display-name>
     <icon src="https://raw.githubusercontent.com/cloventt/epgxml/main/icons/fujitv.png" />
   </channel>
-  <programme channel="cloventt-jp-nhk-g" start="20230302085700 +0000" stop="20230302090000 +0000">
-    <title lang="jp">気象情報（関東甲信越）</title>
-    <desc lang="jp" />
-  </programme>
-  <programme channel="cloventt-jp-nhk-g" start="20230302090000 +0000" stop="20230302091000 +0000">
-    <title lang="jp">首都圏ネットワーク</title>
-    <sub-title lang="jp">首都圏ネットワーク　中学生切りつけ事件・逮捕の高校生は？</sub-title>
-    <desc lang="jp">▽学校の安全対策は？地域に開かれた学校とのバランスは？</desc>
-  </programme>
-  <programme channel="cloventt-jp-nhk-g" start="20230302091000 +0000" stop="20230302093000 +0000">
-    <title lang="jp">首都圏ネットワーク</title>
-    <sub-title lang="jp">首都圏ネットワーク　ことしの花見はどうなる？</sub-title>
-    <desc lang="jp">ＮＨＫが音声を入手・広域強盗事件の発生以降に不安をあおる電話相次ぐ</desc>
-  </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230302093000 +0000" stop="20230302100000 +0000">
     <title lang="jp">首都圏ネットワーク</title>
     <sub-title lang="jp">首都圏ネットワーク（東京・神奈川・千葉・埼玉）　介護力ＵＰのカギは…</sub-title>
@@ -154,7 +140,7 @@
   <programme channel="cloventt-jp-nhk-g" start="20230302144500 +0000" stop="20230302152500 +0000">
     <title lang="jp">国際報道</title>
     <sub-title lang="jp">国際報道２０２３　日本に暮らすロシア人はいま</sub-title>
-    <desc lang="jp">ウクライナ情勢▽日本に暮らすロシア人　侵攻続ける祖国への複雑な思い▽９．１１テロ被害者への補償金　「命の値段」に向き合った弁護士に聞く　※変更の可能性あり</desc>
+    <desc lang="jp">Ｇ２０外相会合▽日本に暮らすロシア人　侵攻続ける祖国への複雑な思い▽９．１１テロ被害者への補償金　「命の値段」に向き合った弁護士に聞く　※変更の可能性あり</desc>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230302152500 +0000" stop="20230302153000 +0000">
     <title lang="jp">マイプとティラノの恐竜ダイすき</title>
@@ -207,7 +193,7 @@
   <programme channel="cloventt-jp-nhk-g" start="20230302192000 +0000" stop="20230302200000 +0000">
     <title lang="jp">国際報道</title>
     <sub-title lang="jp">国際報道２０２３　日本に暮らすロシア人はいま</sub-title>
-    <desc lang="jp">ウクライナ情勢▽日本に暮らすロシア人　侵攻続ける祖国への複雑な思い▽９．１１テロ被害者への補償金　「命の値段」に向き合った弁護士に聞く　※変更の可能性あり</desc>
+    <desc lang="jp">Ｇ２０外相会合▽日本に暮らすロシア人　侵攻続ける祖国への複雑な思い▽９．１１テロ被害者への補償金　「命の値段」に向き合った弁護士に聞く　※変更の可能性あり</desc>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230302200000 +0000" stop="20230302210000 +0000">
     <title lang="jp">NHKニュース おはよう日本</title>
@@ -416,8 +402,8 @@
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230303120000 +0000" stop="20230303130000 +0000">
     <title lang="jp">ニュースウオッチ9</title>
-    <sub-title lang="jp">ニュースウオッチ９</sub-title>
-    <desc lang="jp">▽ニュースも、角度を変えると発見がある▽夜９時・日本の、世界のニュースを詳しく▽さらに深く知りたいテーマは特集で掘り下げます▽スポーツは速報で！▽気象情報　ほか</desc>
+    <sub-title lang="jp">ニュースウオッチ９▽中学校切りつけ続報▽日米豪印外相が会合…中国巡る協議は</sub-title>
+    <desc lang="jp">▽中学校切りつけ続報▽日米豪印外相が会合…中国めぐる協議は？▽中国一帯一路最前線▽ＷＢＣ大谷選手合流へ</desc>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230303130000 +0000" stop="20230303134500 +0000">
     <title lang="jp">アナザーストーリーズ 運命の分岐点</title>
@@ -724,32 +710,23 @@
     <title lang="jp">ニュース</title>
     <desc lang="jp" />
   </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230302083500 +0000" stop="20230302090000 +0000">
-    <title lang="jp">天才てれびくんhello，</title>
-    <sub-title lang="jp">天才てれびくんｈｅｌｌｏ，▽生放送！ラスボス登場！？ペコパリオンズを救え！</sub-title>
-    <desc lang="jp">みんなで参加生放送！キミも電キャをあやつって、てれび戦士と電空の旅へ！さぁ、リモコンを手にデントリー！今回はなんと、ペコパリオンズからＳＯＳが！一体どうして！？</desc>
+  <programme channel="cloventt-jp-nhk-g" start="20230304090500 +0000" stop="20230304094500 +0000">
+    <title lang="jp">週刊ワールドニュース</title>
+    <sub-title lang="jp">週刊ワールドニュース</sub-title>
+    <desc lang="jp" />
   </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230302090000 +0000" stop="20230302092400 +0000">
-    <title lang="jp">おかあさんといっしょ</title>
-    <sub-title lang="jp">おかあさんといっしょ　木曜日</sub-title>
-    <desc lang="jp">２〜４歳児対象の教育エンターテインメント番組。歌・体操・人形劇・アニメなど楽しいコーナーがいっぱい！</desc>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12872/20201001/720x540/ca8dfc513a1f4d2dacc43be2a6b72c1d.jpg" />
+  <programme channel="cloventt-jp-nhk-g" start="20230304094500 +0000" stop="20230304095300 +0000">
+    <title lang="jp">ニュース６４５（関東・山梨）</title>
+    <desc lang="jp" />
   </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230302092400 +0000" stop="20230302092500 +0000">
-    <title lang="jp">あおきいろ</title>
-    <sub-title lang="jp">ＳＤＧｓのうた　アオ・キイ版　目標１７　パートナーシップで目標を達成しよう</sub-title>
-    <desc lang="jp">「ひろがれ！いろとりどり」は＃ＳＤＧｓを楽しく学んでいく番組シリーズ。「ＳＤＧｓのうた」ではＳＤＧｓの目標を１つずつ、アオとキイの歌とアニメで紹介していくよ！</desc>
+  <programme channel="cloventt-jp-nhk-g" start="20230304095300 +0000" stop="20230304100000 +0000">
+    <title lang="jp">気象情報</title>
+    <desc lang="jp" />
   </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230302092500 +0000" stop="20230302094000 +0000">
-    <title lang="jp">みいつけた!</title>
-    <sub-title lang="jp">みいつけた！　木曜日</sub-title>
-    <desc lang="jp">４〜６歳児を対象とした教育的エンターテインメント番組。「友達と遊ぶ楽しさ」「命の不思議」「できる喜び」等さまざまな「発見」を通して楽しむことができる番組です。</desc>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12879/20201001/720x540/0745330bb7874054933151398dc44be0.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230302094000 +0000" stop="20230302095000 +0000">
-    <title lang="jp">宇宙なんちゃら こてつくん</title>
-    <sub-title lang="jp">アニメ　宇宙なんちゃら　こてつくん「ルーの町工場」</sub-title>
-    <desc lang="jp">宇宙を目指すアニマルたちの日々の奮闘を宇宙豆知識を織り交ぜながら描くハートウォーミングコメディアニメーション。これを見れば、宇宙に一歩近づけるかも！</desc>
+  <programme channel="cloventt-jp-nhk-g" start="20230304100000 +0000" stop="20230304103000 +0000">
+    <title lang="jp">NHKニュース7</title>
+    <sub-title lang="jp">ＮＨＫニュース７</sub-title>
+    <desc lang="jp">「確かなニュース、いつでも　どこでも」　きょうの日本、世界の今　一歩先へ、一歩深く　テレビでもスマホでも　このニュースを届けたい</desc>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230302095000 +0000" stop="20230302100000 +0000">
     <title lang="jp">忍たま乱太郎</title>
@@ -1479,6 +1456,27 @@
     <sub-title lang="jp">アニメ　スポンジ・ボブ「ペットと食事を」「カレンのロマンチックデート」</sub-title>
     <desc lang="jp">深い海の底にある海底都市・ビキニタウンに住むスポンジ・ボブとその仲間たちが繰り広げる、ユーモラスで楽しい日常を描いたハイテンション・アニメ！</desc>
   </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230304092000 +0000" stop="20230304092500 +0000">
+    <title lang="jp">のりものまん モービルランドのカークン</title>
+    <sub-title lang="jp">ミニアニメ　のりものまん　モービルランドのカークン「カークンの海底探索」</sub-title>
+    <desc lang="jp">ドンドンがサングラスを海に落としちゃった！海に入るとサビちゃうから探せないよ…とそこに現れたのは潜水艇のサブロー！カークンの海中世界の探索が始まるぞ！</desc>
+  </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230304092500 +0000" stop="20230304095000 +0000">
+    <title lang="jp">魔入りました!入間くん 第3シリーズ</title>
+    <sub-title lang="jp">アニメ　魔入りました！入間くん３（２１）「トモダチへの言葉」</sub-title>
+    <desc lang="jp">ひょんなことから魔界に連れ去られたお人よしの少年・鈴木入間は人間であることを隠し悪魔学校に通うことに！？個性豊かな悪魔たちに囲まれ波乱万丈な学園生活が始まる！</desc>
+  </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230304095000 +0000" stop="20230304100000 +0000">
+    <title lang="jp">ムジカ・ピッコリーノ</title>
+    <sub-title lang="jp">ムジカ・ピッコリーノ「トキメキ」</sub-title>
+    <desc lang="jp">音楽が失われた、ムジカムンド。そこではかつての名曲を閉じ込めたモンストロがさまよっていた。モンストロを治療して音楽の記憶を蘇えらせるムジカドクターたちの物語。</desc>
+  </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230304100000 +0000" stop="20230304104500 +0000">
+    <title lang="jp">地球ドラマチック</title>
+    <sub-title lang="jp">地球ドラマチック　選「海のスーパーハンターたち」</sub-title>
+    <desc lang="jp">大海原で豪快な狩りを繰り広げる、海の生きものたち。華麗なチームプレーをみせるザトウクジラ、高度な技を子どもに教えるシャチなど、海のハンターたちの姿に迫る！</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/4690/20201001/720x540/85d3c1149e0e4d2e9d03ea9e96ec5bb5.jpg" />
+  </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230302065000 +0000" stop="20230302100000 +0000">
     <title lang="jp">news every.</title>
     <sub-title lang="jp">ｎｅｗｓ ｅｖｅｒｙ．教員“切りつけ”少年に新たな事実▼関東ポカポカ…夜は急転</sub-title>
@@ -1509,8 +1507,8 @@
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230302140000 +0000" stop="20230302145900 +0000">
     <title lang="jp">news zero</title>
-    <sub-title lang="jp">ｎｅｗｓ　ｚｅｒｏ</sub-title>
-    <desc lang="jp">有働由美子が１日の終わりに伝えるニュース番組。きょう起きた大切なニュースをみなさんと一緒に「じぶんごと」に。スポーツやカルチャーの話題も幅広くお伝えします。</desc>
+    <sub-title lang="jp">ｎｅｗｓ　ｚｅｒｏ　中学校で切りつけ１７歳「複数の刃物」計画的か…新供述が </sub-title>
+    <desc lang="jp">侵入の詳細「正門から」防犯カメラに▽セクハラ撲滅活動の弁護士が…依頼者にセクハラ▽タクシー暴行「微罪に」警察官“不適切”対応ナゼ▽TikTok禁止？法案可決ナゼ</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/59/20221116/720x484/4fa41b709f6e48e89e85a68536e4b0be.jpg" />
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230302145900 +0000" stop="20230302155400 +0000">
@@ -1617,8 +1615,8 @@
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230303045500 +0000" stop="20230303065000 +0000">
     <title lang="jp">情報ライブ ミヤネ屋</title>
-    <sub-title lang="jp">情報ライブ　ミヤネ屋</sub-title>
-    <desc lang="jp">ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます！</desc>
+    <sub-title lang="jp">ミヤネ屋【大谷翔平選手が侍ジャパン合流へ！現地・名古屋はフィーバー！？】</sub-title>
+    <desc lang="jp">大谷翔平選手が侍ジャパンに合流へ！現地・名古屋はフィーバー！？▽食糧難で餓死者続出…北朝鮮在住者が明かす“混乱の国内事情”とは▽中継！きょうは「ひなまつり」</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/230/20221110/720x540/d7e601815b8f455d876778805568b369.jpg" />
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230303065000 +0000" stop="20230303100000 +0000">
@@ -1785,6 +1783,18 @@
     <desc lang="jp">コナンと小五郎は繁華街でダイイング・メッセージを残した遺体を発見。被害者のマンションを訪れ管理人に話を聞くと、何かを企んでおり大金が入ると言っていたようで…。</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCEgQJGYAM/20230227/720x405/6d677149b41441a98cac732cf159040a.jpg" />
   </programme>
+  <programme channel="cloventt-jp-nippontv1" start="20230304093000 +0000" stop="20230304100000 +0000">
+    <title lang="jp">満天☆青空レストラン</title>
+    <sub-title lang="jp">満天☆青空レストラン　秋田白神生ハムでなにわ男子大橋が作るパスタ！！</sub-title>
+    <desc lang="jp">秋田の小学校跡で作る極上白神生ハム！！なにわ男子大橋＆西畑も絶賛。パスタに絶品卵かけご飯も。</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCAgoNoEAM/20230301/600x400/20230301120013314_000.jpg" />
+  </programme>
+  <programme channel="cloventt-jp-nippontv1" start="20230304100000 +0000" stop="20230304115400 +0000">
+    <title lang="jp">嗚呼!!みんなの動物園</title>
+    <sub-title lang="jp">嗚呼‼みんなの動物園　２時間ＳＰ▽サンシャイン池崎&amp;ラミレス保護猫新シリーズ！</sub-title>
+    <desc lang="jp">サンシャイン池崎が預かる保護猫のりしおの元に猫歴２０年の猫王降臨▽元プロ野球ラミレスの保護猫預かり新シリーズ始動▽超カワイイ！雪の妖精を極寒の北海道で大捜索</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCFAYL48AM/20230225/600x400/20230221100006160_000.jpg" />
+  </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230302074500 +0000" stop="20230302100000 +0000">
     <title lang="jp">スーパーJチャンネル</title>
     <sub-title lang="jp">スーパーＪチャンネル</sub-title>
@@ -1811,7 +1821,7 @@
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230302130000 +0000" stop="20230302141600 +0000">
     <title lang="jp">報道ステーション</title>
-    <sub-title lang="jp">報道ステーション</sub-title>
+    <sub-title lang="jp">報道ステーション　中学校襲撃の少年「人を殺すことに興味あった」刃物を複数所持</sub-title>
     <desc lang="jp">中学校無差別切りつけ…１７歳少年の“動機”と心の闇▽Ｇ２０開幕も…林大臣“欠席”なぜ？▽大谷翔平も合流直前の侍Ｊ“佐々木朗希×松坂大輔”怪物対談(他)</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/135/20201007/720x450/c34bd7ce9bc449ebb6f6858fa14dfbf7.jpg" />
   </programme>
@@ -2167,6 +2177,17 @@
     <desc lang="jp">琉球畳の材料「七島藺（しちとうい）」を栽培し、畳表を作っている田端育代さんと山崎修二さんのお話。草の魅力と素朴な手仕事の良さを伝えようと農家民泊も始めた。</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCAQoJBoAM/20230227/720x406/35bec7ca332b47bdaf5c8f2fd469a564.JPG" />
   </programme>
+  <programme channel="cloventt-jp-tvasahi" start="20230304093000 +0000" stop="20230304095600 +0000">
+    <title lang="jp">謎解き戦士!ガリベンガーV</title>
+    <sub-title lang="jp">謎解き戦士！ガリベンガーＶ</sub-title>
+    <desc lang="jp">《動物のヘンな生態ＳＰ》世界中にいる動物の子育てや求愛、狩りの方法などちょっと変わった生態がわかる映像をみて、Ｖチューバーが特別講師から楽しく学びます！</desc>
+  </programme>
+  <programme channel="cloventt-jp-tvasahi" start="20230304095600 +0000" stop="20230304115400 +0000">
+    <title lang="jp">映画ドラえもん のび太の宇宙小戦争2021</title>
+    <sub-title lang="jp">のび太と空の理想郷公開記念！映画ドラえもんのび太の宇宙小戦争２０２１</sub-title>
+    <desc lang="jp">大きな宇宙を守るため、ドラえもんたちが小さくなって大冒険!!22年3月公開作テレビ初放送!!
+最新作『映画ドラえもん のび太と空の理想郷（ユートピア）』3/3（金）公開！</desc>
+  </programme>
   <programme channel="cloventt-jp-tbs1" start="20230302064900 +0000" stop="20230302100000 +0000">
     <title lang="jp">Nスタ</title>
     <sub-title lang="jp">Ｎスタ【最新】“猫殺した”教員きりつけの１７歳高校生 複数刃物所持</sub-title>
@@ -2469,10 +2490,16 @@
     <desc lang="jp">▽五輪談合…巨額公費投入の闇▽急増する外国人ホームレス…その背景には？</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/531/20221007/720x228/cc0aabf85d654f84b85b7231a9cc515a.jpg" />
   </programme>
-  <programme channel="cloventt-jp-tvtokyo" start="20230302084500 +0000" stop="20230302092500 +0000">
-    <title lang="jp">孤独のグルメ Season10</title>
-    <sub-title lang="jp">孤独のグルメ全話イッキ見！【過去作一挙放送・Ｓｅａｓｏｎ１０】</sub-title>
-    <desc lang="jp">松重豊主演・孤独のグルメSeason10！今回は荒川区「日暮里」慣れない依頼でお腹が減った五郎は、繊維問屋を背にメニュー豊富な「韓国式中華」料理屋を発見し赤黒麺を堪能。</desc>
+  <programme channel="cloventt-jp-tbs1" start="20230304095000 +0000" stop="20230304095100 +0000">
+    <title lang="jp">ウィークエンドウェザー</title>
+    <sub-title lang="jp">ウィークエンドウェザー</sub-title>
+    <desc lang="jp">日々の生活に役立つ天気を分かりやすく解説！防災情報もしっかりお伝えします。</desc>
+  </programme>
+  <programme channel="cloventt-jp-tbs1" start="20230304095100 +0000" stop="20230304120000 +0000">
+    <title lang="jp">炎の体育会TV</title>
+    <sub-title lang="jp">炎の体育会ＴＶ☆WBC開幕直前！大谷翔平＆メッシ衝撃プレー３７連発SP</sub-title>
+    <desc lang="jp">▼大谷翔平＆山川穂高ら侍ジャパン衝撃プレー連発！▼神メッシ・大坂なおみ・ネイマール・Ｃロナウド・井上尚弥ら神技＆素顔を一挙大公開！▼松本人志も超本気夢対決！</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/22379/20220514/720x333/c4fb9c9e87a8430e83dab47dfd8d5508.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvtokyo" start="20230302092500 +0000" stop="20230302115400 +0000">
     <title lang="jp">有吉の世界同時中継</title>
@@ -2947,14 +2974,11 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <sub-title lang="jp">知られざるガリバー〜エクセレントカンパニーファイル〜</sub-title>
     <desc lang="jp">建設現場で活躍する建設用クレーン。様々な仕様のクレーンを製造するタダノでは＜安全＞を最も重要視したモノづくりが行われています。そのこだわりと挑戦をご紹介。</desc>
   </programme>
-  <programme channel="cloventt-jp-tokyomx" start="20230302083000 +0000" stop="20230302090000 +0000">
-    <title lang="jp">ＭＸショッピング</title>
-    <desc lang="jp"> </desc>
-  </programme>
-  <programme channel="cloventt-jp-tokyomx" start="20230302090000 +0000" stop="20230302090900 +0000">
-    <title lang="jp">ヒーリングタイム&amp;ヘッドラインニュース</title>
-    <sub-title lang="jp">ヒーリングタイム＆ヘッドラインニュース</sub-title>
-    <desc lang="jp">ジオラマ２</desc>
+  <programme channel="cloventt-jp-tvtokyo" start="20230304093000 +0000" stop="20230304115400 +0000">
+    <title lang="jp">ザキヤマの街道歩き旅</title>
+    <sub-title lang="jp">土曜スペシャル　ザキヤマの街道歩き旅５　川越街道〜児玉往還〜下仁田街道へ</sub-title>
+    <desc lang="jp">小江戸・川越から目指せ世界遺産・富岡製糸場！歴史香る川越・児玉往還を歩いて歩いてゴールなるか？歩いたからこそウマイ街道グルメも！ザキヤマ歩き疲れて無言に…？</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCAQwzWkAM/20230301/720x540/c7314c5cbb014a68a6d553a07ea0d457.JPG" />
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230302090900 +0000" stop="20230302100000 +0000">
     <title lang="jp">刑事物語’85</title>
@@ -3319,11 +3343,9 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <sub-title lang="jp">ヒーリングタイム＆ヘッドラインニュース</sub-title>
     <desc lang="jp">ねこの足跡／散歩の風景　夏から秋</desc>
   </programme>
-  <programme channel="cloventt-jp-mbs" start="20230302085000 +0000" stop="20230302091500 +0000">
-    <title lang="jp">Nスタ</title>
-    <sub-title lang="jp">Ｎスタ</sub-title>
-    <desc lang="jp">夕方のひととき、あなたの「知りたい！」に全力で応えます。</desc>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/530/20220421/720x540/dc68bcb81c5740939eaecbc4c82d037d.jpg" />
+  <programme channel="cloventt-jp-tokyomx" start="20230304100000 +0000" stop="20230304103000 +0000">
+    <title lang="jp">ＭＸショッピング</title>
+    <desc lang="jp"> </desc>
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230302091500 +0000" stop="20230302100000 +0000">
     <title lang="jp">よんチャンTV</title>
@@ -3360,8 +3382,8 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230302140000 +0000" stop="20230302145600 +0000">
     <title lang="jp">news23</title>
-    <sub-title lang="jp">ｎｅｗｓ２３【人材不足にＡＩ急拡大▼戦闘激化バフムト▼メジャー組合流へ侍Ｊ】</sub-title>
-    <desc lang="jp">対策は？人材不足にＡＩ急拡大▼戦闘激化のバフムト▼メジャー組合流へ侍ジャパン▼開幕！国内女子ゴルフ
+    <sub-title lang="jp">ｎｅｗｓ２３　「くしゃみで意識が…」車暴走２人死亡▽米ＴｉｋＴｏｋ禁止のワケ</sub-title>
+    <desc lang="jp">「誰でもいいから…」中学校“教員切り付け”少年供述▽林外相Ｇ２０欠席に「日本人は約束守るのにびっくり」インドメディア▽飲食店が人材不足で悲鳴…頼りはＡＩ？
 　</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/111/20221226/720x264/1ae632b163624d8bb31c16995666770b.jpg" />
   </programme>
@@ -3917,15 +3939,17 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <desc lang="jp">アルプスの麓に広がる「プロセッコの丘」。高低差５００メートルの急斜面に広がるブドウ畑は、人がつくった絶景。イタリアが誇るスパークリングワイン・プロセッコの故郷。</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCQQYB-sAM/20230226/1200x900/b0a003e402ed3a6c001261c00d9505a2.jpg" />
   </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230302085800 +0000" stop="20230302090000 +0000">
-    <title lang="jp">MEWE</title>
-    <sub-title lang="jp">ＭＥＷＥ「１月２１日」</sub-title>
-    <desc lang="jp">ＭＥ（＝私）のこととして、ＷＥ（＝私たち）のことを考える。目の前にあるけど、普段意識できていないこと。２分間だけでも考えてみたい。</desc>
+  <programme channel="cloventt-jp-mbs" start="20230305093000 +0000" stop="20230305100000 +0000">
+    <title lang="jp">ベスコングルメ</title>
+    <sub-title lang="jp">ベスコングルメ★今田耕司が思い出の地中野で肉汁たっぷり餃子を目指し春日と歩く</sub-title>
+    <desc lang="jp">今田耕司ベスコン初挑戦！上京して初めて住んだ町中野エリアで肉汁たっぷりの焼き餃子を目指して春日と２人きりで歩く！思い出の地で３０年ぶりの偶然の再会に思わず涙！？</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCQQYB-wAM/20230301/1200x900/df21a526825c39c8ddba143fc5e0fcae.jpg" />
   </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230302090000 +0000" stop="20230302095000 +0000">
-    <title lang="jp">BS1スペシャル</title>
-    <sub-title lang="jp">ＢＳ１スペシャル　ウクライナ　戦火のクリスマスプレゼント</sub-title>
-    <desc lang="jp">軍事侵攻後、初めてのクリスマスを迎えたウクライナ。日本に逃れてきた避難民が祖国の家族に送るクリスマスプレゼント。戦火の贈り物に込められた、願いと祈りを見つめる。</desc>
+  <programme channel="cloventt-jp-mbs" start="20230305100000 +0000" stop="20230305115400 +0000">
+    <title lang="jp">坂上&amp;指原のつぶれない店</title>
+    <sub-title lang="jp">坂上＆指原のつぶれない店ＳＰ</sub-title>
+    <desc lang="jp">お金のからくりや儲かるテクニックを楽しく学ぶ“お金”バラエティ！</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhCQQYB-4AM/20230228/1200x900/ebd99423b90ceef287950587c25a87c6.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230302095000 +0000" stop="20230302105000 +0000">
     <title lang="jp">フリースタイル・スノーボード・フリースキー世界選手権2023</title>
@@ -3970,7 +3994,7 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
   <programme channel="cloventt-jp-nhkbs1" start="20230302130000 +0000" stop="20230302134000 +0000">
     <title lang="jp">国際報道</title>
     <sub-title lang="jp">国際報道２０２３　日本に暮らすロシア人はいま</sub-title>
-    <desc lang="jp">ウクライナ情勢▽日本に暮らすロシア人　侵攻続ける祖国への複雑な思い▽９．１１テロ被害者への補償金　「命の値段」に向き合った弁護士に聞く　※変更の可能性あり</desc>
+    <desc lang="jp">Ｇ２０外相会合▽日本に暮らすロシア人　侵攻続ける祖国への複雑な思い▽９．１１テロ被害者への補償金　「命の値段」に向き合った弁護士に聞く　※変更の可能性あり</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230302134000 +0000" stop="20230302135000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -4607,8 +4631,8 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230305230000 +0000" stop="20230305235000 +0000">
     <title lang="jp">キャッチ!世界のトップニュース</title>
-    <sub-title lang="jp">キャッチ！世界のトップニュース</sub-title>
-    <desc lang="jp">▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞</desc>
+    <sub-title lang="jp">キャッチ！世界のトップニュース　ウクライナ情勢</sub-title>
+    <desc lang="jp">特集：中国　海外に警察事務所</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230305235000 +0000" stop="20230306000000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -4627,13 +4651,13 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306020000 +0000" stop="20230306025000 +0000">
     <title lang="jp">キャッチ!世界のトップニュース</title>
-    <sub-title lang="jp">キャッチ！世界のトップニュース</sub-title>
-    <desc lang="jp">▽各国の放送局が伝える注目ニュースをピックアップ　▽焦点や背景を分かりやすく解説　▽特集ワールド・アイズ　※内容変更の場合あり　【キャスター】望月麻美，中川栞</desc>
+    <sub-title lang="jp">キャッチ！世界のトップニュース　ウクライナ情勢</sub-title>
+    <desc lang="jp">特集：中国　海外に警察事務所</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306025000 +0000" stop="20230306030000 +0000">
-    <title lang="jp">BSセレクション</title>
-    <sub-title lang="jp">ＢＳセレクション</sub-title>
-    <desc lang="jp" />
+    <title lang="jp">コウケンテツの日本100年ゴハン紀行ミニ</title>
+    <sub-title lang="jp">コウケンテツの日本１００年ゴハン紀行ミニ「千葉・いすみのまごころ駅弁」</sub-title>
+    <desc lang="jp">料理研究家コウケンテツが１００年先まで残したい日本の食を探す旅、千葉編。いすみ鉄道の名物たこ飯、各家庭によって作り方が違うふるさとの味「花寿司」を味わう。</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306030000 +0000" stop="20230306031500 +0000">
     <title lang="jp">街角ピアノ</title>
@@ -4641,9 +4665,8 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <desc lang="jp">シンガポールの巨大植物園に置かれた一台のピアノ。坂本龍一を弾くベトナム人、アジアを放浪してきたスペイン人、ロシア人の新婚カップル…どんな音楽を奏でるのか。</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306031500 +0000" stop="20230306032500 +0000">
-    <title lang="jp">BSセレクション</title>
-    <sub-title lang="jp">ＢＳセレクション</sub-title>
-    <desc lang="jp" />
+    <title lang="jp">突撃！ストリートシェフ　＠ソウル「カルメキザル」</title>
+    <desc lang="jp">胃袋から世界を知り尽くす！今回は、世界屈指のグルメタウン・ソウルで、豚肉のカルメキザル（ハラミ）専門の焼肉屋さんを営むシェフが登場！激ウマ・焼肉を要チェック！</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306032500 +0000" stop="20230306035000 +0000">
     <title lang="jp">ワールドニュース</title>
@@ -4661,9 +4684,9 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <desc lang="jp">岐阜と長野にまたがる北アルプス「乗鞍岳」▽９合目まで車でアクセス、手軽に３千ｍを体感▽絶景！夏でも残る雪と希少な高山植物▽絶品！山の気候が育むそばと、天然イワナ</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306044500 +0000" stop="20230306045000 +0000">
-    <title lang="jp">BSセレクション</title>
-    <sub-title lang="jp">ＢＳセレクション</sub-title>
-    <desc lang="jp" />
+    <title lang="jp">チャリダー★快汗!サイクルクリニック 5分で交通安全</title>
+    <sub-title lang="jp">チャリダー★快汗！サイクルクリニック　５分で交通安全♯１走る前の準備</sub-title>
+    <desc lang="jp">チャリダー★５分で交通安全。意外と知らない自転車の交通ルールを、５分で楽しく解説します。皆さん、自転車に乗るとき、命を守るヘルメットをきちんとかぶっていますか？</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306045000 +0000" stop="20230306050000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -4685,15 +4708,14 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <sub-title lang="jp">ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ</sub-title>
     <desc lang="jp">▽国内外のニュースや気象情報をお伝えします。　※スポーツ中継がある場合は、放送時間や内容が変更になります。</desc>
   </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230306060000 +0000" stop="20230306064400 +0000">
+  <programme channel="cloventt-jp-nhkbs1" start="20230306060000 +0000" stop="20230306064500 +0000">
     <title lang="jp">BS世界のドキュメンタリー</title>
     <sub-title lang="jp">ＢＳ世界のドキュメンタリー選▽ローマ教皇とヒトラー　ピウス１２世秘密ファイル</sub-title>
     <desc lang="jp">ナチスによるユダヤ人の弾圧に反対しなかったために各方面から批判され続けた教皇ピウス１２世。バチカンで公開されたばかりの資料から、教皇が沈黙した理由を明らかにする</desc>
   </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230306064400 +0000" stop="20230306065000 +0000">
-    <title lang="jp">BSセレクション</title>
-    <sub-title lang="jp">ＢＳセレクション</sub-title>
-    <desc lang="jp" />
+  <programme channel="cloventt-jp-nhkbs1" start="20230306064500 +0000" stop="20230306065000 +0000">
+    <title lang="jp">Ｊリーグと私　３０年の物語　ガイナーレ鳥取編</title>
+    <desc lang="jp">開幕から３０周年を迎えたＪリーグと人々の物語。今回はガイナーレ鳥取。意外な方法で、チームの収益アップと地域課題の改善を同時に実現した。立役者となった元選手の思い</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306065000 +0000" stop="20230306070000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -4705,10 +4727,14 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <sub-title lang="jp">ワールドニュース　アメリカ</sub-title>
     <desc lang="jp">▽アメリカ・ＡＢＣ「ジス・ウイーク」　▽世界の気象</desc>
   </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230306073000 +0000" stop="20230306075000 +0000">
-    <title lang="jp">BSセレクション</title>
-    <sub-title lang="jp">ＢＳセレクション</sub-title>
-    <desc lang="jp" />
+  <programme channel="cloventt-jp-nhkbs1" start="20230306073000 +0000" stop="20230306074500 +0000">
+    <title lang="jp">グレートレース　１５ｍｉｎ．　アルプス大激走１７１ｋｍ　ＵＴＭＢ　ダイジェスト</title>
+    <desc lang="jp">モンブランを巡る世界最高峰のトレランレースＵＴＭＢ。新型コロナによる渡航制限が解除され、３年ぶりに世界のトップランナーが大集結。新時代の王者を決める頂上決戦。</desc>
+  </programme>
+  <programme channel="cloventt-jp-nhkbs1" start="20230306074500 +0000" stop="20230306075000 +0000">
+    <title lang="jp">地球タクシー 5min.ドライブ</title>
+    <sub-title lang="jp">地球タクシー　５ｍｉｎ．ドライブ「オアフ島を走る　アロハ・スピリッツ」</sub-title>
+    <desc lang="jp">タクシーは不思議な場所だ。ドライバーと偶然出会い、つかの間のひとときを共にするー。車窓の風景と何気ない会話から、世界の都市を感じるドライブ紀行。５分バージョン。</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230306075000 +0000" stop="20230306080000 +0000">
     <title lang="jp">沁(し)みる夜汽車</title>
@@ -4720,20 +4746,20 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <sub-title lang="jp">ＣＯＯＬ　ＪＡＰＡＮ▽日本人への大ギモン！“なぜパブリックで○○するの？”</sub-title>
     <desc lang="jp">日本人と外国人では“パブリック（公共の場）”に対する考え方に違いがある！？「なぜ日本人は外でイチャイチャしないの？」など疑問を徹底議論！そこから見える日本人の姿</desc>
   </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230306084500 +0000" stop="20230306090000 +0000">
+  <programme channel="cloventt-jp-nhkbs1" start="20230306084500 +0000" stop="20230306085500 +0000">
     <title lang="jp">BSセレクション</title>
     <sub-title lang="jp">ＢＳセレクション</sub-title>
     <desc lang="jp" />
   </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230306090000 +0000" stop="20230306091000 +0000">
-    <title lang="jp">BSセレクション</title>
-    <sub-title lang="jp">ＢＳセレクション</sub-title>
-    <desc lang="jp" />
+  <programme channel="cloventt-jp-nhkbs1" start="20230306085500 +0000" stop="20230306091000 +0000">
+    <title lang="jp">駅 空港 街角ピアノ 名場面</title>
+    <sub-title lang="jp">駅　空港　街角ピアノ　名場面（７）「映画音楽編」</sub-title>
+    <desc lang="jp">「映画音楽」の演奏を集めた名場面。スーパーの店員による「タイタニック」のテーマ、中国人高校生の「前前前世」、ガンを乗り越えた７４歳ピアニストの「虹の彼方に」など</desc>
   </programme>
-  <programme channel="cloventt-jp-nhkbsp" start="20230302080000 +0000" stop="20230302090000 +0000">
-    <title lang="jp">ヨーロッパ大横断 リバークルーズ</title>
-    <sub-title lang="jp">ヨーロッパ大横断　リバークルーズ（４）「大峡谷をぬけ黒海へ　〜ドナウ川〜」</sub-title>
-    <desc lang="jp">豪華なクルーズ船でライン川、マイン川、ドナウ川、運河を行く。ヨーロッパ大陸を横断する壮大な川の旅。臨場感たっぷりに絶景と歴史文化を堪能する。</desc>
+  <programme channel="cloventt-jp-nhkbs1" start="20230306091000 +0000" stop="20230306105000 +0000">
+    <title lang="jp">BS1スペシャル</title>
+    <sub-title lang="jp">ＢＳ１スペシャル「大水害　メガシティを襲う洪水・高潮の脅威２０１９」</sub-title>
+    <desc lang="jp">いま日本を襲う大水害の脅威。日仏共同制作でＮＹや上海など世界のメガシティの洪水・高潮対策をルポ。温暖化による海面上昇と地盤沈下が招く大災害とは？▽台風被害を防げ</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230302090000 +0000" stop="20230302100000 +0000">
     <title lang="jp">世界ふれあい街歩き</title>
@@ -5332,9 +5358,9 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <desc lang="jp">３月のプレミアムステージは、＜前半＞は、モリエール作「守銭奴　ザ・マネー・クレイジー」。　＜後半＞は、シェイクスピア作「リチャード三世」のアンコール放送。</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230305185700 +0000" stop="20230305190000 +0000">
-    <title lang="jp">プレミアムセレクション</title>
-    <sub-title lang="jp">プレミアムセレクション</sub-title>
-    <desc lang="jp" />
+    <title lang="jp">にっぽん百名山ミニ 3min</title>
+    <sub-title lang="jp">にっぽん百名山ミニ　３ｍｉｎ「夏　幌尻岳」</sub-title>
+    <desc lang="jp">北海道の幌尻岳（２０５２ｍ）日高山脈の最高峰に抱かれた野生の生き物の楽園を旅する！清流を沢登りでさかのぼりヒグマが遊ぶ満開のお花畑が広がるカールを巡り頂をめざす</desc>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230305190000 +0000" stop="20230305193000 +0000">
     <title lang="jp">空からクルージング 特別編</title>
@@ -5438,16 +5464,20 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <desc lang="jp">若い世代に中心に人気を集める「現代のうつわ」を大特集。展覧会を開けば売り切れ必至の人気作家から現代工芸の巨匠まで。明日からの暮らしを豊かにする名品の数々を紹介！</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/23195/20210415/720x540/5167873a2d4d4e61911d34824c030596.jpg" />
   </programme>
-  <programme channel="cloventt-jp-bsnippontv" start="20230302080000 +0000" stop="20230302090000 +0000">
-    <title lang="jp">ショッピングＱ</title>
-    <desc lang="jp" />
+  <programme channel="cloventt-jp-nhkbsp" start="20230306090100 +0000" stop="20230306091100 +0000">
+    <title lang="jp">10分で巡る にっぽんの廃線</title>
+    <sub-title lang="jp">１０分で巡る　にっぽんの廃線「東海北陸」</sub-title>
+    <desc lang="jp">「１０分で巡る　にっぽんの廃線」東海北陸編。富山地方鉄道射水線、静岡鉄道駿遠線、北陸鉄道金沢市内線、名鉄岐阜市内線、名古屋市電など、１１路線を紹介します。</desc>
   </programme>
-  <programme channel="cloventt-jp-bsnippontv" start="20230302090000 +0000" stop="20230302095500 +0000">
-    <title lang="jp">桃太郎侍</title>
-    <sub-title lang="jp">時代劇　桃太郎侍　第２４６話「親子喧嘩を食った鬼」</sub-title>
-    <desc lang="jp">将軍家斉の御落胤でありながら、気ままな浪人暮らしの桃太郎。
-育ちが良すぎて世情に疎いのが玉に傷。
-弱きを助け、悪しき鬼を華麗に退治する、高橋英樹主演の痛快時代劇</desc>
+  <programme channel="cloventt-jp-nhkbsp" start="20230306091100 +0000" stop="20230306100000 +0000">
+    <title lang="jp">ドキュメントにっぽん</title>
+    <sub-title lang="jp">ドキュメントにっぽん「雪華の謎を追う〜大雪山　雪物語〜」</sub-title>
+    <desc lang="jp">美しい六角形をした雪の純粋な結晶「雪華」、そこには多くの謎が秘められている。マイナス２０度まで冷え込む北海道の大雪山で「雪華」の謎を追う研究者たちの姿を描く。</desc>
+  </programme>
+  <programme channel="cloventt-jp-nhkbsp" start="20230306100000 +0000" stop="20230306103000 +0000">
+    <title lang="jp">てくてく絶景</title>
+    <sub-title lang="jp">てくてく絶景　鎌倉界わい▽江の島・稲村ケ崎・極楽寺ほか▽正門良規</sub-title>
+    <desc lang="jp">【コース】江ノ島⇒片瀬海岸⇒江ノ電鎌倉高校前駅⇒稲村ガ崎⇒江ノ電極楽寺駅⇒成就院▽野間口徹▽鶴田真由</desc>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230302095500 +0000" stop="20230302100000 +0000">
     <title lang="jp">お得α</title>
@@ -5838,8 +5868,8 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230304150000 +0000" stop="20230304153000 +0000">
     <title lang="jp">お隣の天使様にいつの間にか駄目人間にされていた件</title>
-    <sub-title lang="jp">アニメ　お隣の天使様にいつの間にか駄目人間にされていた件</sub-title>
-    <desc lang="jp" />
+    <sub-title lang="jp">アニメ　お隣の天使様にいつの間にか駄目人間にされていた件　＃９</sub-title>
+    <desc lang="jp">＃９　天使様とお出かけ</desc>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230304153000 +0000" stop="20230304160000 +0000">
     <title lang="jp">涼宮ハルヒの憂鬱(2009年放送版)</title>
@@ -6174,10 +6204,15 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
 育ちが良すぎて世情に疎いのが玉に傷。
 弱きを助け、悪しき鬼を華麗に退治する、高橋英樹主演の痛快時代劇</desc>
   </programme>
-  <programme channel="cloventt-jp-bsasahi" start="20230302075700 +0000" stop="20230302090000 +0000">
-    <title lang="jp">新・必殺仕置人</title>
-    <sub-title lang="jp">新・必殺仕置人　＃4「暴徒無用」</sub-title>
-    <desc lang="jp">1977年から朝日放送で放送された「必殺」シリーズ第10作！</desc>
+  <programme channel="cloventt-jp-bsnippontv" start="20230306095500 +0000" stop="20230306100000 +0000">
+    <title lang="jp">お得α</title>
+    <desc lang="jp" />
+  </programme>
+  <programme channel="cloventt-jp-bsnippontv" start="20230306100000 +0000" stop="20230306105400 +0000">
+    <title lang="jp">BS日本・こころの歌</title>
+    <sub-title lang="jp">ＢＳ日本・こころの歌　「歌謡史〜昭和２０年代１」▽ＦＯＲＥＳＴＡによる昭和歌謡</sub-title>
+    <desc lang="jp">歌謡史を振り返る。今回は昭和２０年代１回目。未来への夢と希望を届け続けた『昭和歌謡』▽曲目：東京ブギウギ、湯の町エレジー、リンゴの唄、悲しき竹笛　ほか</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/21472/20201001/720x540/18e65926b07949c2871bdab24b2cb016.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230302090000 +0000" stop="20230302110000 +0000">
     <title lang="jp">西村京太郎サスペンス 鉄道捜査官5</title>
@@ -6917,13 +6952,10 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <sub-title lang="jp">新・おみやさん</sub-title>
     <desc lang="jp">「19年目の殺人連鎖！京都鴨川…父を待つ娘の愛と憎悪」▽第8シリーズまで放送された人気作の新装シリーズ（テレビ朝日系列で2012年に放送）</desc>
   </programme>
-  <programme channel="cloventt-jp-bstbs" start="20230302085400 +0000" stop="20230302090000 +0000">
-    <title lang="jp">情報セレクト</title>
-    <desc lang="jp">選りすぐりの商品をご紹介！</desc>
-  </programme>
-  <programme channel="cloventt-jp-bstbs" start="20230302090000 +0000" stop="20230302093000 +0000">
-    <title lang="jp">ビバ！ショッピング</title>
-    <desc lang="jp">地上波でおなじみのＴＶショッピングがＢＳにも登場！</desc>
+  <programme channel="cloventt-jp-bsasahi" start="20230306100000 +0000" stop="20230306115400 +0000">
+    <title lang="jp">相棒 season3</title>
+    <sub-title lang="jp">相棒 season3　前後編一挙放送「女優〜前編〜」「女優〜後編〜」</sub-title>
+    <desc lang="jp">右京が免職!?薫は右京を気にかけつつ女優の夫殺しを捜査。右京も事件に興味を持ち、コンビ捜査に乗り出すが…。▽テレビ朝日系列で2004年〜放送の「相棒 season3」前後編SP</desc>
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230302093000 +0000" stop="20230302103000 +0000">
     <title lang="jp">水戸黄門 第40部</title>
@@ -7584,6 +7616,16 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
   <programme channel="cloventt-jp-bstbs" start="20230306085400 +0000" stop="20230306092400 +0000">
     <title lang="jp">ビバ！ショッピング</title>
     <desc lang="jp">選りすぐりの商品をご紹介！</desc>
+  </programme>
+  <programme channel="cloventt-jp-bstbs" start="20230306092400 +0000" stop="20230306093000 +0000">
+    <title lang="jp">情報セレクト</title>
+    <desc lang="jp">選りすぐりの商品をご紹介！</desc>
+  </programme>
+  <programme channel="cloventt-jp-bstbs" start="20230306093000 +0000" stop="20230306103000 +0000">
+    <title lang="jp">水戸黄門 第40部</title>
+    <sub-title lang="jp">水戸黄門　第４０部▼第１５回「届け歌声、響けから桶」（高山）</sub-title>
+    <desc lang="jp">里見浩太朗演じる黄門さまによる１０回目の世直し旅。シリーズ放送４０周年を迎えた本作では、林家三平演じるちゃっかり八兵衛が黄門様御一行に加わる。</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/776128/20230203/720x478/f35bc44fefa54988978106dcd51dba26.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230302085800 +0000" stop="20230302104900 +0000">
     <title lang="jp">今野敏サスペンス 聖域 警視庁強行犯係・樋口顕</title>
@@ -8284,22 +8326,11 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <sub-title lang="jp">徳光和夫の名曲にっぽん＜名曲選スペシャル＞</sub-title>
     <desc lang="jp">五木ひろし、前川清、神野美伽、坂本冬美が話題曲を披露！若手女性歌手＆男性歌手も登場！</desc>
   </programme>
-  <programme channel="cloventt-jp-bsfujitv" start="20230302070000 +0000" stop="20230302090000 +0000">
-    <title lang="jp">午後の名作ドラマ劇場</title>
-    <sub-title lang="jp">＜名作ドラマ劇場＞女ざかり！！区役所の名探偵２　化け猫屋敷殺人事件</sub-title>
-    <desc lang="jp">うつみ宮土理・久本雅美・柴田理恵の「花の三婆トリオ」復活！三毛猫にまつわる連続殺人事件に挑む！浅香光代扮する「化け猫ババア」の本性とは！？</desc>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhBgC1acEAE/20230227/720x405/0b40712039f04c97a1967b3c4714311d.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-bsfujitv" start="20230302090000 +0000" stop="20230302093000 +0000">
-    <title lang="jp">日本一ふつうで美味しい 植野食堂 by dancyu</title>
-    <sub-title lang="jp">植野食堂 by dancyu #266切干大根じゃこ煮</sub-title>
-    <desc lang="jp">雑誌「dancyu」編集長・植野広生が目指すのは、日本一ふつうで美味しい料理が並ぶ食堂の開店！今回は東京・月島「ユの木」の「切り干し大根のじゃこ煮」を学ぶ。</desc>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/612418/20210622/720x518/a03cfa556add4d5d890f339d0e638713.png" />
-  </programme>
-  <programme channel="cloventt-jp-bsfujitv" start="20230302093000 +0000" stop="20230302093500 +0000">
-    <title lang="jp">今夜のオススメ</title>
-    <sub-title lang="jp">今夜のオススメ</sub-title>
-    <desc lang="jp" />
+  <programme channel="cloventt-jp-bstvtokyo" start="20230306095400 +0000" stop="20230306115400 +0000">
+    <title lang="jp">シネマクラッシュ</title>
+    <sub-title lang="jp">シネマクラッシュ『ナバロンの嵐』あの英雄たちが新たなミッションに挑む！</sub-title>
+    <desc lang="jp">難攻不落の橋を破壊し、包囲された7000名のパルチザンを救え！「ナバロンの要塞」の英雄たちが無謀なミッションに挑む、スペクタクルアドベンチャー！（1978年／英）</desc>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/22804/20210421/720x188/ade4652b27e041339a8e1bcee8942cd1.png" />
   </programme>
   <programme channel="cloventt-jp-bsfujitv" start="20230302093500 +0000" stop="20230302103000 +0000">
     <title lang="jp">剣客商売 第3シリーズ</title>
@@ -8814,7 +8845,7 @@ HIPHOPミーツallグッド何か:サイプレス上野　t-Ace</desc>
     <desc lang="jp">一流の達人の元にお邪魔し、名品が再生される様子を見届ける番組。</desc>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/681447/20211216/721x311/0d054eeff0a5404e9b98c61b51b6fea4.png" />
   </programme>
-  <programme channel="cloventt-jp-bsfujitv" start="20230305003000 +0000" stop="20230306090000 +0000">
+  <programme channel="cloventt-jp-bsfujitv" start="20230305003000 +0000" stop="20230306100000 +0000">
     <title lang="jp">番組のデータがありません</title>
     <desc lang="jp" />
   </programme>
