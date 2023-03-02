@@ -90,7 +90,7 @@ def convert():
     with open(Path('__file__').parent / 'cloventt.jp.m3u8', 'w') as m3u:
         m3u.write(m3u_str)
 
-    start_time = int(time.time()) - (int(time.time()) % 3600) - 86400
+    start_time = int(time.time()) - (int(time.time()) % 60)
     params = [
         {
             'siTypeId': 3,
