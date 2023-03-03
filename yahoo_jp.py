@@ -270,7 +270,7 @@ def convert():
 
         logging.info("Added %s programmes for channel", processed)
 
-    with open(Path('__file__').parent / 'cloventt.jp.epg.xml', 'wb') as epgxml:
+    with open(Path('__file__').parent / 'cloventt.jp.epglib.xml', 'wb') as epgxml:
         ET.indent(root)
         data = ET.tostring(root, encoding='utf-8')
         epgxml.write(data)
