@@ -5,13 +5,13 @@
     "channelArea": "23",
     "networkId": "0x7FE0",
     "serviceId": "0x0400",
-    "display-name": {
+    "display_name": {
       "en": "NHK G",
       "jp": "NHK総合1"
     },
     "icon": "nhk-g.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-nhk-e": {
     "id": "cloventt-jp-nhk-e",
@@ -19,13 +19,13 @@
     "channelArea": "23",
     "networkId": "0x7FE1",
     "serviceId": "0x0408",
-    "display-name": {
+    "display_name": {
       "en": "NHK E",
       "jp": "NHKEテレ1"
     },
     "icon": "nhk-e.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-nippontv": {
     "id": "cloventt-jp-nippontv",
@@ -33,12 +33,13 @@
     "channelArea": "23",
     "networkId": "0x7FE2",
     "serviceId": "0x0410",
-    "display-name": {
+    "display_name": {
       "en": "Nippon TV 1",
       "jp": "日テレ1"
     },
     "icon": "nippontv.png",
-    "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8"
+    "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8",
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-asahitv": {
     "id": "cloventt-jp-tvasahi",
@@ -46,12 +47,12 @@
     "channelArea": "23",
     "networkId": "0x7FE5",
     "serviceId": "0x0428",
-    "display-name": {
+    "display_name": {
       "en": "TV Asahi",
       "jp": "テレビ朝日"
     },
     "icon": "tvasahi.png",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-tbs1": {
     "id": "cloventt-jp-tbs1",
@@ -59,13 +60,13 @@
     "channelArea": "23",
     "networkId": "0x7FE3",
     "serviceId": "0x0418",
-    "display-name": {
+    "display_name": {
       "en": "TBS1",
       "jp": "TBS1"
     },
     "icon": "tbs1.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-tvtokyo": {
     "id": "cloventt-jp-tvtokyo",
@@ -73,13 +74,13 @@
     "channelArea": "23",
     "networkId": "0x7FE6",
     "serviceId": "0x0430",
-    "display-name": {
+    "display_name": {
       "en": "TV Tokyo",
       "jp": "テレビ東京"
     },
     "icon": "tvtokyo.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-mbs": {
     "id": "cloventt-jp-mbs",
@@ -87,13 +88,13 @@
     "channelArea": "41",
     "networkId": "0x7FD2",
     "serviceId": "0x0110",
-    "display-name": {
+    "display_name": {
       "en": "MBS",
       "jp": "MBS毎日放送"
     },
     "icon": "mbs.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-tokyomx": {
     "id": "cloventt-jp-tokyomx",
@@ -101,13 +102,13 @@
     "channelArea": "23",
     "networkId": "0x7E87",
     "serviceId": "0x5C3A",
-    "display-name": {
+    "display_name": {
       "en": "TOKYO MX",
       "jp": "TOKYO MX"
     },
     "icon": "tokyomx.png",
     "streamUrl": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-nhkbs1": {
     "id": "cloventt-jp-nhkbs1",
@@ -115,13 +116,13 @@
     "channelArea": "23",
     "networkId": "0x0004",
     "serviceId": "0x0065",
-    "display-name": {
+    "display_name": {
       "en": "NHK BS1",
       "jp": "NHK BS1"
     },
     "icon": "nhkbs1.png",
     "streamUrl": "https://list.iptvcat.com/my_list/s/4b473d72af1fe1d04db515c9156292fc.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-nhkbsp": {
     "id": "cloventt-jp-nhkbsp",
@@ -129,13 +130,13 @@
     "channelArea": "23",
     "networkId": "0x0004",
     "serviceId": "0x0067",
-    "display-name": {
+    "display_name": {
       "en": "NHK BSP",
       "jp": "NHKBSプレミアム"
     },
     "icon": "nhkbsp.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-bsnippontv": {
     "id": "cloventt-jp-bsnippontv",
@@ -143,13 +144,13 @@
     "channelArea": "23",
     "networkId": "0x0004",
     "serviceId": "0x008D",
-    "display-name": {
+    "display_name": {
       "en": "BS Nippon TV",
       "jp": "BS日テレ"
     },
     "icon": "nippontv.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs03hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-bsasahi": {
     "id": "cloventt-jp-bsasahi",
@@ -157,13 +158,13 @@
     "channelArea": "23",
     "networkId": "0x0004",
     "serviceId": "0x0097",
-    "display-name": {
+    "display_name": {
       "en": "BS Asahi",
       "jp": "BS朝日"
     },
     "icon": "tvasahi.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-bstbs": {
     "id": "cloventt-jp-bstbs",
@@ -171,13 +172,13 @@
     "channelArea": "23",
     "networkId": "0x0004",
     "serviceId": "0x00A1",
-    "display-name": {
+    "display_name": {
       "en": "BS-TBS",
       "jp": "BS-TBS"
     },
     "icon": "bstbs.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-bstvtokyo": {
     "id": "cloventt-jp-bstvtokyo",
@@ -185,13 +186,13 @@
     "channelArea": "23",
     "networkId": "0x0004",
     "serviceId": "0x00AB",
-    "display-name": {
+    "display_name": {
       "en": "BS TV Tokyo",
       "jp": "ＢＳテレ東"
     },
     "icon": "bstvtokyo.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   },
   "cloventt-jp-bsfujitv": {
     "id": "cloventt-jp-bsfujitv",
@@ -199,12 +200,12 @@
     "channelArea": "23",
     "networkId": "0x0004",
     "serviceId": "0x00B5",
-    "display-name": {
+    "display_name": {
       "en": "BS Fuji",
       "jp": "BSフジ"
     },
     "icon": "fujitv.png",
     "streamUrl": "http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8",
-    "epgSource": "yahoo"
+    "epgSource": "yahoo-japan"
   }
 }

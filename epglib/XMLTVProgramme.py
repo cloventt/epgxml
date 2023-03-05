@@ -25,20 +25,20 @@ class XMLTVProgramme:
             'stop': XMLTVProgramme.format_date(self.stop),
         })
 
-        for lang, title in self.title:
+        for lang, title in self.title.items():
             n = ET.SubElement(node, 'title', {'lang': lang})
             n.text = title
 
-        for lang, sub_title in self.sub_title:
+        for lang, sub_title in self.sub_title.items():
             n = ET.SubElement(node, 'sub-title', {'lang': lang})
             n.text = sub_title
 
-        for lang, desc in self.sub_title:
+        for lang, desc in self.sub_title.items():
             n = ET.SubElement(node, 'desc', {'lang': lang})
             n.text = desc
 
         for category in self.categories:
-            for lang, cat in category:
+            for lang, cat in category.items():
                 n = ET.SubElement(node, 'category', {'lang': lang})
                 n.text = cat
 
