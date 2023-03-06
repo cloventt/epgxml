@@ -2,9 +2,9 @@ import dataclasses
 import datetime
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-from typing import List
+from typing import List, Union
 
-from epglib.types import MultiLingualString
+from epglib.types import MultiLingualString, Image
 
 
 @dataclasses.dataclass
@@ -16,7 +16,8 @@ class XMLTVProgramme:
     categories: List[MultiLingualString]
     start: datetime
     stop: datetime
-    icon: str
+    icon: Union[str, Image]
+    images: List[Union[str, Image]]
 
     def append_to_tree(self, epg: ET.Element):
         node = ET.SubElement(epg, 'programme', {
@@ -43,7 +44,14 @@ class XMLTVProgramme:
                 n.text = cat
 
         if self.icon:
-            ET.SubElement(node, 'icon', {'src': self.icon})
+            if type(self.icon) == 'str':
+                ET.SubElement(node, 'icon', {'src': self.icon})
+            else:
+                ET.SubElement(node, 'icon', {
+                    'src': self.icon.get('url'),
+                    'height': self.icon.get('height'),
+                    'width': self.icon.get('width')
+                })
 
     @staticmethod
     def format_date(date: datetime) -> str:

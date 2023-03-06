@@ -58,8 +58,8 @@ class EpgGenerator:
                 programme.append_to_tree(root)
 
             xml_headers = [s.encode('utf-8') for s in [
-                '<?xml version="1.0" encoding="UTF-8"?>',
-                '<!DOCTYPE tv SYSTEM "xmltv.dtd">'
+                '<?xml version="1.0" encoding="UTF-8"?>\n',
+                '<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
             ]]
 
             out_file.writelines(xml_headers)
