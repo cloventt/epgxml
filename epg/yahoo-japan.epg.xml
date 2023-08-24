@@ -4,41 +4,26 @@
     <display-name lang="jp">BSフジ</display-name>
     <icon src="https://raw.githubusercontent.com/cloventt/epgxml/main/icons/fujitv.png" />
   </channel>
-  <programme channel="cloventt-jp-nhk-g" start="20230823224500 +0000" stop="20230823230000 +0000">
-    <title lang="jp">NHKニュース おはよう日本（関東甲信越）</title>
-    <sub-title lang="jp">ＮＨＫニュース　おはよう日本（関東甲信越）</sub-title>
-    <desc lang="jp">ＮＨＫニュース　おはよう日本（関東甲信越）</desc>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
-  </programme>
-  <programme channel="cloventt-jp-nhk-g" start="20230823230000 +0000" stop="20230823231500 +0000">
-    <title lang="jp">らんまん</title>
-    <sub-title lang="jp">【連続テレビ小説】らんまん　第２１週「ノジギク」（１０４）</sub-title>
-    <desc lang="jp">【連続テレビ小説】らんまん　第２１週「ノジギク」（１０４）</desc>
-    <category lang="jp">ドラマ</category>
-    <category lang="en">Drama</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtQQAM0UAM/20230817/512x341/39470_1.jpg" />
-  </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230823231500 +0000" stop="20230824005500 +0000">
     <title lang="jp">あさイチ</title>
     <sub-title lang="jp">あさイチ　愛（め）でたいｎｉｐｐｏｎ　広島</sub-title>
     <desc lang="jp">あさイチ　愛（め）でたいｎｉｐｐｏｎ　広島</desc>
-    <category lang="jp">拡張</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824005500 +0000" stop="20230824010000 +0000">
     <title lang="jp">みんなの体操</title>
     <sub-title lang="jp">みんなの体操</sub-title>
     <desc lang="jp">みんなの体操</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824010000 +0000" stop="20230824010500 +0000">
     <title lang="jp">ニュース・気象情報</title>
@@ -79,10 +64,10 @@
     <title lang="jp">ふるカフェ系 ハルさんの休日</title>
     <sub-title lang="jp">ふるカフェ系　ハルさんの休日　北海道・松前〜築１９２年船が運んできたカフェ</sub-title>
     <desc lang="jp">ふるカフェ系　ハルさんの休日　北海道・松前〜築１９２年船が運んできたカフェ</desc>
-    <category lang="jp">ドラマ</category>
-    <category lang="en">Drama</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824023000 +0000" stop="20230824025400 +0000">
     <title lang="jp">ひるまえほっと</title>
@@ -115,10 +100,10 @@
     <desc lang="jp">サラメシ　シーズン１２（１８）建築技術の訓練校大盛りメシ▽東京利島のカフェ</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824034500 +0000" stop="20230824040000 +0000">
     <title lang="jp">らんまん</title>
@@ -144,12 +129,12 @@
     <title lang="jp">テレビ体操</title>
     <sub-title lang="jp">テレビ体操</sub-title>
     <desc lang="jp">テレビ体操</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824050000 +0000" stop="20230824050500 +0000">
     <title lang="jp">ニュース・気象情報</title>
@@ -160,10 +145,10 @@
     <title lang="jp">とちスぺ</title>
     <sub-title lang="jp">【ＮＨＫ地域局発】とちスペ「ものづくりの哲学〜ドローン開発者　五百部達也〜」</sub-title>
     <desc lang="jp">【ＮＨＫ地域局発】とちスペ「ものづくりの哲学〜ドローン開発者　五百部達也〜」</desc>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">ニュース／報道</category>
+    <category lang="en">News</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824053200 +0000" stop="20230824053500 +0000">
     <title lang="jp">にっぽん百名山ミニ 3min</title>
@@ -200,10 +185,10 @@
     <title lang="jp">にっぽん百名山</title>
     <sub-title lang="jp">にっぽん百名山「白馬岳　雪倉岳　〜北アルプス　秘密の花園へ〜」</sub-title>
     <desc lang="jp">にっぽん百名山「白馬岳　雪倉岳　〜北アルプス　秘密の花園へ〜」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824064000 +0000" stop="20230824065500 +0000">
     <title lang="jp">岩合光昭の世界ネコ歩きmini</title>
@@ -237,10 +222,10 @@
     <title lang="jp">きょうの料理ビギナーズ</title>
     <sub-title lang="jp">きょうの料理ビギナーズ　もやし明太そうめん</sub-title>
     <desc lang="jp">きょうの料理ビギナーズ　もやし明太そうめん</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/15815/20201001/720x540/987d81672d7b479ea94a506a1d5372a7.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824071500 +0000" stop="20230824080000 +0000">
@@ -303,10 +288,10 @@
     <desc lang="jp">サラメシシーズン１３（１５）バスケＷ杯で活躍プロ審判員▽古谷一行の鴨せいろ</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824105700 +0000" stop="20230824114200 +0000">
     <title lang="jp">あしたが変わるトリセツショー</title>
@@ -364,10 +349,10 @@
     <desc lang="jp">所さん！事件ですよ　瞳が欠ける！？骨が曲がる！？紫外線　驚きの最新事情</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230824143000 +0000" stop="20230824143500 +0000">
     <title lang="jp">ニュース・気象情報</title>
@@ -507,22 +492,22 @@
     <title lang="jp">あさイチ</title>
     <sub-title lang="jp">あさイチ　プレミアムトーク　浜辺美波</sub-title>
     <desc lang="jp">あさイチ　プレミアムトーク　浜辺美波</desc>
-    <category lang="jp">拡張</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825005500 +0000" stop="20230825010000 +0000">
     <title lang="jp">みんなの体操</title>
     <sub-title lang="jp">みんなの体操</sub-title>
     <desc lang="jp">みんなの体操</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825010000 +0000" stop="20230825010500 +0000">
     <title lang="jp">ニュース・気象情報</title>
@@ -597,10 +582,10 @@
     <title lang="jp">きょうの料理</title>
     <sub-title lang="jp">きょうの料理「栗原心平の食旅　長崎県雲仙・煮干しを極める」</sub-title>
     <desc lang="jp">きょうの料理「栗原心平の食旅　長崎県雲仙・煮干しを極める」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/4574/20201001/720x540/7a93e8940a234d4da9645ccd1937fa86.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825034500 +0000" stop="20230825040000 +0000">
@@ -627,12 +612,12 @@
     <title lang="jp">テレビ体操</title>
     <sub-title lang="jp">テレビ体操</sub-title>
     <desc lang="jp">テレビ体操</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825050000 +0000" stop="20230825050500 +0000">
     <title lang="jp">ニュース・気象情報</title>
@@ -643,12 +628,12 @@
     <title lang="jp">えぇトコ</title>
     <sub-title lang="jp">地域局発　えぇトコ「古都の奥！まほろばの伝説の宝〜奈良市　柳生界わい〜」</sub-title>
     <desc lang="jp">地域局発　えぇトコ「古都の奥！まほろばの伝説の宝〜奈良市　柳生界わい〜」</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/34129/20201001/720x540/6ba324025cf44c4eb45f64b64d51d6e6.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825053100 +0000" stop="20230825053500 +0000">
@@ -773,10 +758,10 @@
     <desc lang="jp">首都圏情報ネタドリ！“まさか私が・・・”　「望まぬ孤独」はすぐそばに</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825105700 +0000" stop="20230825114200 +0000">
     <title lang="jp">チコちゃんに叱られる!</title>
@@ -821,10 +806,10 @@
     <title lang="jp">ドキュメント72時間</title>
     <sub-title lang="jp">ドキュメント７２時間　異国の地のアフガニスタン食堂で　完全版</sub-title>
     <desc lang="jp">ドキュメント７２時間　異国の地のアフガニスタン食堂で　完全版</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtrQANrAAM/20230818/512x288/39464_1.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825143000 +0000" stop="20230825143500 +0000">
@@ -889,10 +874,10 @@
     <title lang="jp">ヨーロッパ トラムの旅</title>
     <sub-title lang="jp">ヨーロッパ　トラムの旅「オーストリア　ウィーン」</sub-title>
     <desc lang="jp">ヨーロッパ　トラムの旅「オーストリア　ウィーン」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825190000 +0000" stop="20230825190500 +0000">
     <title lang="jp">ハロー!NHKワールドJAPAN</title>
@@ -947,10 +932,10 @@
     <title lang="jp">NHK映像ファイル あの人に会いたい</title>
     <sub-title lang="jp">ＮＨＫ映像ファイル　あの人に会いたい　アンコール平川唯一（ラジオ英語会話講師）</sub-title>
     <desc lang="jp">ＮＨＫ映像ファイル　あの人に会いたい　アンコール平川唯一（ラジオ英語会話講師）</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-g" start="20230825205000 +0000" stop="20230825210000 +0000">
     <title lang="jp">気象情報</title>
@@ -998,74 +983,19 @@
     <category lang="jp">ドラマ</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230823224500 +0000" stop="20230823230900 +0000">
-    <title lang="jp">おかあさんといっしょ</title>
-    <sub-title lang="jp">おかあさんといっしょ　木曜日</sub-title>
-    <desc lang="jp">おかあさんといっしょ　木曜日</desc>
-    <category lang="jp">音楽</category>
-    <category lang="en">Music</category>
+  <programme channel="cloventt-jp-nhk-g" start="20230825231500 +0000" stop="20230826000000 +0000">
+    <title lang="jp">チコちゃんに叱られる!</title>
+    <sub-title lang="jp">チコちゃんに叱られる！▽畳１畳の大きさ▽船の底の謎▽人気者はなぜスター</sub-title>
+    <desc lang="jp">チコちゃんに叱られる！▽畳１畳の大きさ▽船の底の謎▽人気者はなぜスター</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/4567/20201001/720x540/f110ca27386f4af8a0a12bb18ffef040.jpg" />
   </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230823230900 +0000" stop="20230823231000 +0000">
-    <title lang="jp">パッコロリン</title>
-    <sub-title lang="jp">パッコロリン「パックンたいそう」</sub-title>
-    <desc lang="jp">パッコロリン「パックンたいそう」</desc>
+  <programme channel="cloventt-jp-nhk-g" start="20230826000000 +0000" stop="20230826003000 +0000">
+    <title lang="jp">有吉のお金発見 突撃!カネオくん</title>
+    <sub-title lang="jp">有吉のお金発見　突撃！カネオくん　パラスポーツ！車いすに義足に進化がすごい</sub-title>
+    <desc lang="jp">有吉のお金発見　突撃！カネオくん　パラスポーツ！車いすに義足に進化がすごい</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12057/20201001/720x540/55337960a2f04f78805e027c8fe84c8d.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230823231000 +0000" stop="20230823232500 +0000">
-    <title lang="jp">いないいないばあっ!</title>
-    <sub-title lang="jp">いないいないばあっ！　木曜日</sub-title>
-    <desc lang="jp">いないいないばあっ！　木曜日</desc>
-    <category lang="jp">音楽</category>
-    <category lang="en">Music</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/4562/20201001/720x540/dd54e3ea40ca408ba43e975c4ac17e59.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230823232500 +0000" stop="20230823233500 +0000">
-    <title lang="jp">ねこのめ美じゅつかん</title>
-    <sub-title lang="jp">ねこのめ美じゅつかん　１６歩め　仙がい義梵の絵は“元祖ゆるキャラ”？</sub-title>
-    <desc lang="jp">ねこのめ美じゅつかん　１６歩め　仙がい義梵の絵は“元祖ゆるキャラ”？</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-  </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230823233500 +0000" stop="20230823234500 +0000">
-    <title lang="jp">ピタゴラスイッチ</title>
-    <sub-title lang="jp">ピタゴラスイッチ▽新しい生物　ボルトノドン</sub-title>
-    <desc lang="jp">ピタゴラスイッチ▽新しい生物　ボルトノドン</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/17133/20210412/720x507/21c415db97cb40938e1db99011edc6be.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230823234500 +0000" stop="20230823235000 +0000">
-    <title lang="jp">プチプチ・アニメ</title>
-    <sub-title lang="jp">プチプチ・アニメ　ビーズの森のらびぃ「ビーズの森のらびぃ」</sub-title>
-    <desc lang="jp">プチプチ・アニメ　ビーズの森のらびぃ「ビーズの森のらびぃ」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">アニメ／特撮</category>
-    <category lang="en">Animated</category>
-  </programme>
-  <programme channel="cloventt-jp-nhk-e" start="20230823235000 +0000" stop="20230823235500 +0000">
-    <title lang="jp">スクる!</title>
-    <sub-title lang="jp">スクる！「学校でケガをしないためには？」</sub-title>
-    <desc lang="jp">スクる！「学校でケガをしないためには？」</desc>
-    <category lang="jp">音楽</category>
-    <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230823235500 +0000" stop="20230824000000 +0000">
     <title lang="jp">みんなのうた</title>
@@ -1098,21 +1028,21 @@
     <title lang="jp">@media〜アッ!とメディア〜</title>
     <sub-title lang="jp">アッ！とメディア　メディア・リテラシー入門　〜ネットの情報〜</sub-title>
     <desc lang="jp">アッ！とメディア　メディア・リテラシー入門　〜ネットの情報〜</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824003000 +0000" stop="20230824004500 +0000">
     <title lang="jp">カラフル!〜世界の子どもたち〜</title>
     <sub-title lang="jp">カラフル！〜世界の子どもたち〜　クロアチア　気球で空を飛びたくて</sub-title>
     <desc lang="jp">カラフル！〜世界の子どもたち〜　クロアチア　気球で空を飛びたくて</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824004500 +0000" stop="20230824005000 +0000">
     <title lang="jp">えいごでがんこちゃん</title>
@@ -1137,40 +1067,40 @@
     <title lang="jp">全国中学校体育大会2023</title>
     <sub-title lang="jp">全国中学校体育大会２０２３　サッカー決勝　神村学園（鹿児島）対日章学園（宮崎）</sub-title>
     <desc lang="jp">全国中学校体育大会２０２３　サッカー決勝　神村学園（鹿児島）対日章学園（宮崎）</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824022000 +0000" stop="20230824025500 +0000">
     <title lang="jp">すくすく子育て</title>
     <sub-title lang="jp">すくすく子育て　子どもが生まれたあとの夫婦関係</sub-title>
     <desc lang="jp">すくすく子育て　子どもが生まれたあとの夫婦関係</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824025500 +0000" stop="20230824030000 +0000">
     <title lang="jp">まる得マガジン</title>
     <sub-title lang="jp">まる得マガジン　１品１色で！野菜の“カラフル”つくりおき（８）白色のつくりおき</sub-title>
     <desc lang="jp">まる得マガジン　１品１色で！野菜の“カラフル”つくりおき（８）白色のつくりおき</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824030000 +0000" stop="20230824031500 +0000">
     <title lang="jp">きょうの健康</title>
     <sub-title lang="jp">きょうの健康　ニュース「増える高齢者の仕事中の事故」</sub-title>
     <desc lang="jp">きょうの健康　ニュース「増える高齢者の仕事中の事故」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824031500 +0000" stop="20230824040000 +0000">
     <title lang="jp">あしたも晴れ!人生レシピ</title>
@@ -1192,20 +1122,20 @@
     <title lang="jp">すてきにハンドメイド</title>
     <sub-title lang="jp">すてきにハンドメイド　手芸で巡る世界旅　モロッコ　フェズ刺しゅう</sub-title>
     <desc lang="jp">すてきにハンドメイド　手芸で巡る世界旅　モロッコ　フェズ刺しゅう</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/20379/20201001/720x540/62f4719825494465a8f61c940aa50c50.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824043000 +0000" stop="20230824051500 +0000">
     <title lang="jp">先人たちの底力 知恵泉</title>
     <sub-title lang="jp">先人たちの底力　知恵泉「今川氏真の生き残り術　敗北からの復活劇」</sub-title>
     <desc lang="jp">先人たちの底力　知恵泉「今川氏真の生き残り術　敗北からの復活劇」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824051500 +0000" stop="20230824065500 +0000">
     <title lang="jp">全国中学校体育大会2023</title>
@@ -1254,10 +1184,10 @@
     <title lang="jp">えるえる</title>
     <sub-title lang="jp">えるえる「きいてるよ」</sub-title>
     <desc lang="jp">えるえる「きいてるよ」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824080000 +0000" stop="20230824081000 +0000">
     <title lang="jp">おじゃる丸</title>
@@ -1304,10 +1234,10 @@
     <desc lang="jp">おかあさんといっしょ　木曜日</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12872/20201001/720x540/ca8dfc513a1f4d2dacc43be2a6b72c1d.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824092400 +0000" stop="20230824092500 +0000">
@@ -1323,10 +1253,10 @@
     <desc lang="jp">みいつけた！　木曜日</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12879/20201001/720x540/0745330bb7874054933151398dc44be0.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824094000 +0000" stop="20230824095000 +0000">
@@ -1372,24 +1302,24 @@
     <title lang="jp">ロッチと子羊</title>
     <sub-title lang="jp">ロッチと子羊（５３）「予備校講師の悩み編（１）」</sub-title>
     <desc lang="jp">ロッチと子羊（５３）「予備校講師の悩み編（１）」</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtQQIM-YAM/20230817/512x288/39478_1.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824113000 +0000" stop="20230824114500 +0000">
     <title lang="jp">きょうの健康</title>
     <sub-title lang="jp">きょうの健康　ニュース　増加する自殺　最新予防策は？</sub-title>
     <desc lang="jp">きょうの健康　ニュース　増加する自殺　最新予防策は？</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/5870/20201001/720x540/0bcbe4550f2143288719d077ab3c49b1.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824114500 +0000" stop="20230824120000 +0000">
@@ -1407,40 +1337,40 @@
     <desc lang="jp">クラシックＴＶ「鈴木愛理ｐｒｅｓｅｎｔｓ『青のオーケストラ』コラボ第２弾」</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">劇場／公演</category>
     <category lang="en">Theatre</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824123000 +0000" stop="20230824125500 +0000">
     <title lang="jp">すてきにハンドメイド</title>
     <sub-title lang="jp">すてきにハンドメイド「バンドカラーのブラウス＆ワンピース」</sub-title>
     <desc lang="jp">すてきにハンドメイド「バンドカラーのブラウス＆ワンピース」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/4609/20201001/720x540/8ae139f975ca4cb093794ccca6fa1cf3.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824125500 +0000" stop="20230824130000 +0000">
     <title lang="jp">まる得マガジン</title>
     <sub-title lang="jp">まる得マガジン“酢テキ”スッキリ！お酢ライフ（４）酢って万能だれ！２</sub-title>
     <desc lang="jp">まる得マガジン“酢テキ”スッキリ！お酢ライフ（４）酢って万能だれ！２</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824130000 +0000" stop="20230824133000 +0000">
     <title lang="jp">イギリスで一番美しい庭 ダルメイン</title>
     <sub-title lang="jp">イギリスで一番美しい庭　ダルメイン　選　ブルーポピーの物語</sub-title>
     <desc lang="jp">イギリスで一番美しい庭　ダルメイン　選　ブルーポピーの物語</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824133000 +0000" stop="20230824135500 +0000">
     <title lang="jp">ふるカフェ系 ハルさんの休日</title>
@@ -1453,10 +1383,10 @@
     <title lang="jp">365日の献立日記</title>
     <sub-title lang="jp">３６５日の献立日記「冷やしのっぺい」</sub-title>
     <desc lang="jp">３６５日の献立日記「冷やしのっぺい」</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824140000 +0000" stop="20230824142000 +0000">
     <title lang="jp">ハングルッ!ナビ</title>
@@ -1495,10 +1425,10 @@
     <desc lang="jp">バリューの真実　黒歴史は役に立つ▽失敗から見つける長所▽ＳｉｘＴＯＮＥＳ</desc>
     <category lang="jp">ドラマ</category>
     <category lang="en">Drama</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824153000 +0000" stop="20230824154500 +0000">
     <title lang="jp">漫画家イエナガの複雑社会を超定義</title>
@@ -1511,19 +1441,19 @@
     <title lang="jp">ハートネットTV</title>
     <sub-title lang="jp">ハートネットＴＶ　フクチッチ（３０）統合失調症　後編</sub-title>
     <desc lang="jp">ハートネットＴＶ　フクチッチ（３０）統合失調症　後編</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824161500 +0000" stop="20230824162500 +0000">
     <title lang="jp">10min.ボックス 生活・公共</title>
     <sub-title lang="jp">１０ｍｉｎ．ボックス　生活・公共「どんなふうに働く？〜働くことの意味〜」</sub-title>
     <desc lang="jp">１０ｍｉｎ．ボックス　生活・公共「どんなふうに働く？〜働くことの意味〜」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824162500 +0000" stop="20230824163500 +0000">
     <title lang="jp">英会話フィーリングリッシュ 〜データで選んだ推しフレーズ〜</title>
@@ -1573,12 +1503,12 @@
     <title lang="jp">テレビ体操</title>
     <sub-title lang="jp">テレビ体操</sub-title>
     <desc lang="jp">テレビ体操</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824213500 +0000" stop="20230824214000 +0000">
     <title lang="jp">みんなのうた</title>
@@ -1617,10 +1547,10 @@
     <title lang="jp">マチスコープ</title>
     <sub-title lang="jp">マチスコープ「空気はきれい？」</sub-title>
     <desc lang="jp">マチスコープ「空気はきれい？」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824221000 +0000" stop="20230824222000 +0000">
     <title lang="jp">はなかっぱ</title>
@@ -1647,10 +1577,10 @@
     <desc lang="jp">みいつけた！　金曜日</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/4569/20201001/720x540/21cbc7ff9d734457a0c0a566c49930af.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824224500 +0000" stop="20230824230900 +0000">
@@ -1659,10 +1589,10 @@
     <desc lang="jp">おかあさんといっしょ　金曜日</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/4567/20201001/720x540/f110ca27386f4af8a0a12bb18ffef040.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824230900 +0000" stop="20230824231000 +0000">
@@ -1696,10 +1626,10 @@
     <title lang="jp">ピタゴラスイッチ</title>
     <sub-title lang="jp">ピタゴラスイッチ▽フレーミーとたね　▽たこたこピー</sub-title>
     <desc lang="jp">ピタゴラスイッチ▽フレーミーとたね　▽たこたこピー</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/17133/20210412/720x507/21c415db97cb40938e1db99011edc6be.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824234500 +0000" stop="20230824235000 +0000">
@@ -1715,12 +1645,12 @@
     <title lang="jp">まいにちスクスク</title>
     <sub-title lang="jp">まいにちスクスク　ラクしてキレイ！安心お掃除術１▽赤ちゃんの近くでできるお掃除</sub-title>
     <desc lang="jp">まいにちスクスク　ラクしてキレイ！安心お掃除術１▽赤ちゃんの近くでできるお掃除</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230824235500 +0000" stop="20230825000000 +0000">
     <title lang="jp">みんなのうた</title>
@@ -1853,10 +1783,10 @@
     <title lang="jp">チョイス＠病気になったとき</title>
     <sub-title lang="jp">チョイス＠病気になったとき　まとめスペシャル「歯周病＆歯のセルフケア」</sub-title>
     <desc lang="jp">チョイス＠病気になったとき　まとめスペシャル「歯周病＆歯のセルフケア」</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/38685/20201001/720x540/50a33b951d94487f825bb4ceb0b82ea2.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825034500 +0000" stop="20230825040000 +0000">
@@ -1883,10 +1813,10 @@
     <desc lang="jp">グレーテルのかまど　世界遺産アマルフィのレモンケーキ</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825043000 +0000" stop="20230825045000 +0000">
     <title lang="jp">ハングルッ!ナビ</title>
@@ -1906,13 +1836,13 @@
     <title lang="jp">全国中学校体育大会2023</title>
     <sub-title lang="jp">全国中学校体育大会２０２３　陸上</sub-title>
     <desc lang="jp">全国中学校体育大会２０２３　陸上</desc>
-    <category lang="jp">拡張</category>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
+    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825065500 +0000" stop="20230825071000 +0000">
     <title lang="jp">いないいないばあっ!</title>
@@ -1942,10 +1872,10 @@
     <title lang="jp">ミクロワールド</title>
     <sub-title lang="jp">ミクロワールド「単細胞で生きる　ゾウリムシ」</sub-title>
     <desc lang="jp">ミクロワールド「単細胞で生きる　ゾウリムシ」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825074500 +0000" stop="20230825080000 +0000">
     <title lang="jp">Q〜こどものための哲学〜</title>
@@ -1979,10 +1909,10 @@
     <title lang="jp">ウチのどうぶつえん</title>
     <sub-title lang="jp">ウチのどうぶつえん　京都で、ゴリラ尽くし</sub-title>
     <desc lang="jp">ウチのどうぶつえん　京都で、ゴリラ尽くし</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825083000 +0000" stop="20230825090000 +0000">
     <title lang="jp">漂流兄妹〜理科の知識で大脱出!?〜</title>
@@ -1999,10 +1929,10 @@
     <desc lang="jp">おかあさんといっしょ　金曜日</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12872/20201001/720x540/ca8dfc513a1f4d2dacc43be2a6b72c1d.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825092400 +0000" stop="20230825092500 +0000">
@@ -2018,10 +1948,10 @@
     <desc lang="jp">みいつけた！　金曜日</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12879/20201001/720x540/0745330bb7874054933151398dc44be0.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825094000 +0000" stop="20230825095000 +0000">
@@ -2151,10 +2081,10 @@
     <title lang="jp">ハートネットTV</title>
     <sub-title lang="jp">ハートネットＴＶ　戦争が聴こえる</sub-title>
     <desc lang="jp">ハートネットＴＶ　戦争が聴こえる</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825161500 +0000" stop="20230825164000 +0000">
     <title lang="jp">NHK短歌</title>
@@ -2223,12 +2153,12 @@
     <title lang="jp">テレビ体操</title>
     <sub-title lang="jp">テレビ体操</sub-title>
     <desc lang="jp">テレビ体操</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825213500 +0000" stop="20230825215000 +0000">
     <title lang="jp">キソ英語を学んでみたら世界とつながった。</title>
@@ -2252,30 +2182,30 @@
     <title lang="jp">にほんごであそぼ</title>
     <sub-title lang="jp">にほんごであそぼ「白」</sub-title>
     <desc lang="jp">にほんごであそぼ「白」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12892/20201001/720x540/15725147f67944fd83c62039356546e9.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825221000 +0000" stop="20230825222000 +0000">
     <title lang="jp">ピタゴラスイッチ</title>
     <sub-title lang="jp">ピタゴラスイッチ「おうちのひとといっしょに！つくってみようＳＰ」</sub-title>
     <desc lang="jp">ピタゴラスイッチ「おうちのひとといっしょに！つくってみようＳＰ」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/17133/20210412/720x507/21c415db97cb40938e1db99011edc6be.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825222000 +0000" stop="20230825223000 +0000">
     <title lang="jp">マチスコープ</title>
     <sub-title lang="jp">マチスコープ「カゲをあやつる」</sub-title>
     <desc lang="jp">マチスコープ「カゲをあやつる」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhk-e" start="20230825223000 +0000" stop="20230825224500 +0000">
     <title lang="jp">ノージーのひらめき工房</title>
@@ -2291,10 +2221,45 @@
     <desc lang="jp">おかあさんといっしょ　ファミリーコンサート　川越</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
+  </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230825230900 +0000" stop="20230825231000 +0000">
+    <title lang="jp">パッコロリン</title>
+    <sub-title lang="jp">パッコロリン「くさぶえ」</sub-title>
+    <desc lang="jp">パッコロリン「くさぶえ」</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/12057/20201001/720x540/55337960a2f04f78805e027c8fe84c8d.jpg" />
+  </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230825231000 +0000" stop="20230825233500 +0000">
+    <title lang="jp">ギガントサウルス2</title>
+    <sub-title lang="jp">アニメ　ギガントサウルス２　（２１）ソリをおいかけろ／ダイノシッター</sub-title>
+    <desc lang="jp">アニメ　ギガントサウルス２　（２１）ソリをおいかけろ／ダイノシッター</desc>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">アニメ／特撮</category>
+    <category lang="en">Animated</category>
+  </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230825233500 +0000" stop="20230826000000 +0000">
+    <title lang="jp">おさるのジョージ</title>
+    <sub-title lang="jp">アニメ　おさるのジョージ「ぼうしいるか」「犬のおんがえし」</sub-title>
+    <desc lang="jp">アニメ　おさるのジョージ「ぼうしいるか」「犬のおんがえし」</desc>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">アニメ／特撮</category>
+    <category lang="en">Animated</category>
+  </programme>
+  <programme channel="cloventt-jp-nhk-e" start="20230826000000 +0000" stop="20230826002000 +0000">
+    <title lang="jp">おしりたんてい</title>
+    <sub-title lang="jp">アニメ　おしりたんてい（７６）「ププッ　ツルルときえたプリンセスエッグ」</sub-title>
+    <desc lang="jp">アニメ　おしりたんてい（７６）「ププッ　ツルルときえたプリンセスエッグ」</desc>
+    <category lang="jp">アニメ／特撮</category>
+    <category lang="en">Animated</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230823205000 +0000" stop="20230824000000 +0000">
     <title lang="jp">ZIP!</title>
@@ -2312,10 +2277,10 @@
     <desc lang="jp">ＤａｙＤａｙ．慶応１０７年ぶり優勝▽仙台育英も大健闘‼２校共通の令和式とは</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230824021000 +0000" stop="20230824022000 +0000">
     <title lang="jp">日テレポシュレ 三ツ星モール</title>
@@ -2431,10 +2396,10 @@
     <title lang="jp">24時間テレビ46「明日のために、今日つながろう。」カウントダウン</title>
     <sub-title lang="jp">２４時間テレビ４６「明日のために、今日つながろう。」放送まであと１日⑨</sub-title>
     <desc lang="jp">２４時間テレビ４６「明日のために、今日つながろう。」放送まであと１日⑨</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230824160400 +0000" stop="20230824163400 +0000">
     <title lang="jp">FUN!FUN!FANTASTICS SEASON3</title>
@@ -2451,21 +2416,21 @@
     <title lang="jp">Z STUDIO SENSORS</title>
     <sub-title lang="jp">Z STUDIO SENSORS#5【エンタメ・クリエイティブの最先端番組】</sub-title>
     <desc lang="jp">Z STUDIO SENSORS#5【エンタメ・クリエイティブの最先端番組】</desc>
-    <category lang="jp">その他</category>
-    <category lang="en">Other</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">その他</category>
+    <category lang="en">Other</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230824170400 +0000" stop="20230824173400 +0000">
     <title lang="jp">OUT OF 48</title>
     <sub-title lang="jp">ＯＵＴ　ＯＦ　４８　＃１９【最終審査！ソロ歌唱＆グループ審査後半戦！】</sub-title>
     <desc lang="jp">ＯＵＴ　ＯＦ　４８　＃１９【最終審査！ソロ歌唱＆グループ審査後半戦！】</desc>
-    <category lang="jp">音楽</category>
-    <category lang="en">Music</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">音楽</category>
+    <category lang="en">Music</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230824173400 +0000" stop="20230824180400 +0000">
     <title lang="jp">オードリーさん、ぜひ会ってほしい人がいるんです。</title>
@@ -2496,21 +2461,21 @@
     <desc lang="jp">５分でわかる映画「ゆとり」</desc>
     <category lang="jp">映画</category>
     <category lang="en">Movie</category>
-    <category lang="jp">ドラマ</category>
-    <category lang="en">Drama</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230824192400 +0000" stop="20230824192900 +0000">
     <title lang="jp">後期も凄い!没入型ディズニー</title>
     <sub-title lang="jp">後期も凄い！没入型ディズニー</sub-title>
     <desc lang="jp">後期も凄い！没入型ディズニー</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
     <category lang="jp">アニメ／特撮</category>
     <category lang="en">Animated</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230824192900 +0000" stop="20230824193000 +0000">
     <title lang="jp">日テレみどころ</title>
@@ -2545,10 +2510,10 @@
     <desc lang="jp">ＤａｙＤａｙ．【MCは武田真一と山里亮太！情報＆エンタメ＆おしゃべり】</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230825012500 +0000" stop="20230825015500 +0000">
     <title lang="jp">女神のマルシェ</title>
@@ -2569,10 +2534,10 @@
     <title lang="jp">ねこ団長TV</title>
     <sub-title lang="jp">ねこ団長ＴＶ</sub-title>
     <desc lang="jp">ねこ団長ＴＶ</desc>
-    <category lang="jp">その他</category>
-    <category lang="en">Other</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">その他</category>
+    <category lang="en">Other</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230825023000 +0000" stop="20230825024500 +0000">
     <title lang="jp">NNN ストレイトニュース</title>
@@ -2629,10 +2594,10 @@
     <title lang="jp">24時間テレビ46「明日のために、今日つながろう。」直前カウントダウン</title>
     <sub-title lang="jp">明日よる放送！２４時間テレビ４６「明日のために、今日つながろう。」</sub-title>
     <desc lang="jp">明日よる放送！２４時間テレビ４６「明日のために、今日つながろう。」</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230825120000 +0000" stop="20230825135400 +0000">
     <title lang="jp">FIBAバスケットボールワールドカップ2023</title>
@@ -2654,10 +2619,10 @@
     <title lang="jp">Google Pixel presents ANOTHER SKY</title>
     <sub-title lang="jp">アナザースカイ岸井ゆきのがベルギーへ。初めて見せた素顔とは？</sub-title>
     <desc lang="jp">アナザースカイ岸井ゆきのがベルギーへ。初めて見せた素顔とは？</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtgQQJHUAM/20230821/600x400/20230821130015128_000.jpg" />
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230825143000 +0000" stop="20230825153000 +0000">
@@ -2674,10 +2639,10 @@
     <title lang="jp">今夜放送!24時間テレビ46「明日のために、今日つながろう。」なにわ男子(秘)練習</title>
     <sub-title lang="jp">今夜放送！２４時間テレビ４６「明日のために、今日つながろう。」なにわ男子㊙練習</sub-title>
     <desc lang="jp">今夜放送！２４時間テレビ４６「明日のために、今日つながろう。」なにわ男子㊙練習</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230825154000 +0000" stop="20230825160900 +0000">
     <title lang="jp">癒やしのお隣さんには秘密がある</title>
@@ -2701,10 +2666,10 @@
     <title lang="jp">夜バゲット</title>
     <sub-title lang="jp">夜バゲット 深夜の総合エンターテインメント情報番組！</sub-title>
     <desc lang="jp">夜バゲット 深夜の総合エンターテインメント情報番組！</desc>
-    <category lang="jp">映画</category>
-    <category lang="en">Movie</category>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
+    <category lang="jp">映画</category>
+    <category lang="en">Movie</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
@@ -2728,10 +2693,10 @@
     <desc lang="jp">絶賛公開中キングダム見どころ</desc>
     <category lang="jp">映画</category>
     <category lang="en">Movie</category>
-    <category lang="jp">ドラマ</category>
-    <category lang="en">Drama</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230825202400 +0000" stop="20230825202900 +0000">
     <title lang="jp">伝説の作品!シティーハンター</title>
@@ -2757,10 +2722,10 @@
     <desc lang="jp">ズームイン！！サタデー</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/232/20221111/726x342/872c879bdb434088968975c0948df2f8.jpg" />
   </programme>
   <programme channel="cloventt-jp-nippontv1" start="20230825230000 +0000" stop="20230826002500 +0000">
@@ -2769,16 +2734,6 @@
     <desc lang="jp">ウェークアップ　中谷しのぶ＆野村修也がダブルの視点でニュースを深く鋭く！</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-  </programme>
-  <programme channel="cloventt-jp-tvasahi" start="20230823195500 +0000" stop="20230823230000 +0000">
-    <title lang="jp">グッド!モーニング</title>
-    <sub-title lang="jp">グッド！モーニング</sub-title>
-    <desc lang="jp">グッド！モーニング</desc>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/123435/20220322/720x480/7e85d5a350eb4e7892fb74f02fe53b9c.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230823230000 +0000" stop="20230824005500 +0000">
     <title lang="jp">羽鳥慎一モーニングショー</title>
@@ -2792,12 +2747,12 @@
     <title lang="jp">じゅん散歩</title>
     <sub-title lang="jp">じゅん散歩</sub-title>
     <desc lang="jp">じゅん散歩</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/276721/20201001/720x540/5286a51c060843c593b359a315e2cc74.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230824012500 +0000" stop="20230824040000 +0000">
@@ -2806,10 +2761,10 @@
     <desc lang="jp">大下容子ワイド！スクランブル</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/211/20210506/720x540/89c6a7b59abc4e018edde5cb6b97072f.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230824040000 +0000" stop="20230824043000 +0000">
@@ -2818,10 +2773,10 @@
     <desc lang="jp">徹子の部屋　伊藤英明</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtQQoGAgAM/20230817/720x476/5ad605b696de4e669ec077163cce6d30.JPG" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230824043000 +0000" stop="20230824044500 +0000">
@@ -2902,10 +2857,10 @@
     <title lang="jp">私の幸福時間</title>
     <sub-title lang="jp">私の幸福時間</sub-title>
     <desc lang="jp">私の幸福時間</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230824120000 +0000" stop="20230824125400 +0000">
     <title lang="jp">ハヤブサ消防団</title>
@@ -2929,10 +2884,10 @@
     <title lang="jp">EXITのモータースポーツ応援宣言</title>
     <sub-title lang="jp">ＥＸＩＴのモータースポーツ応援宣言　番組初の公開収録！勝田選手とラリークイズ！</sub-title>
     <desc lang="jp">ＥＸＩＴのモータースポーツ応援宣言　番組初の公開収録！勝田選手とラリークイズ！</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
   </programme>
@@ -2958,10 +2913,10 @@
     <desc lang="jp">お願い！ランキングｐｒｅｓｅｎｔｓそだてれび</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230824162000 +0000" stop="20230824162600 +0000">
     <title lang="jp">全力坂</title>
@@ -3011,12 +2966,12 @@
     <title lang="jp">じゅん散歩</title>
     <sub-title lang="jp">じゅん散歩</sub-title>
     <desc lang="jp">じゅん散歩</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/276721/20201001/720x540/5286a51c060843c593b359a315e2cc74.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825012500 +0000" stop="20230825040000 +0000">
@@ -3025,10 +2980,10 @@
     <desc lang="jp">大下容子ワイド！スクランブル</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/211/20210506/720x540/89c6a7b59abc4e018edde5cb6b97072f.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825040000 +0000" stop="20230825043000 +0000">
@@ -3037,10 +2992,10 @@
     <desc lang="jp">徹子の部屋　花田虎上</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtgQoGQcAM/20230818/720x480/62a52049be6d48faa69bbf96b6e3e684.JPG" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825043000 +0000" stop="20230825044500 +0000">
@@ -3074,12 +3029,12 @@
     <title lang="jp">午後もじゅん散歩</title>
     <sub-title lang="jp">午後もじゅん散歩</sub-title>
     <desc lang="jp">午後もじゅん散歩</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825055200 +0000" stop="20230825064800 +0000">
     <title lang="jp">科捜研の女19</title>
@@ -3133,10 +3088,10 @@
     <title lang="jp">私の幸福時間</title>
     <sub-title lang="jp">私の幸福時間</sub-title>
     <desc lang="jp">私の幸福時間</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825125400 +0000" stop="20230825141000 +0000">
     <title lang="jp">報道ステーション</title>
@@ -3150,10 +3105,10 @@
     <title lang="jp">気づきの扉</title>
     <sub-title lang="jp">気づきの扉</sub-title>
     <desc lang="jp">気づきの扉</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825141500 +0000" stop="20230825151500 +0000">
     <title lang="jp">警部補ダイマジン</title>
@@ -3169,10 +3124,10 @@
     <title lang="jp">港時間</title>
     <sub-title lang="jp">港時間</sub-title>
     <desc lang="jp">港時間</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825152000 +0000" stop="20230825155000 +0000">
     <title lang="jp">出川一茂ホラン☆フシギの会</title>
@@ -3187,10 +3142,10 @@
     <title lang="jp">ナスD大冒険TV</title>
     <sub-title lang="jp">ナスＤ大冒険ＴＶ</sub-title>
     <desc lang="jp">ナスＤ大冒険ＴＶ</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/583342/20220629/720x405/db4d3b7510ce4357b2f17d8488ed4017.png" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825162000 +0000" stop="20230825165000 +0000">
@@ -3204,12 +3159,12 @@
     <title lang="jp">BeauTV 〜VOCE ビューティーヴィー</title>
     <sub-title lang="jp">ＢｅａｕＴＶ　〜ＶＯＣＥ　ビューティーヴィー</sub-title>
     <desc lang="jp">ＢｅａｕＴＶ　〜ＶＯＣＥ　ビューティーヴィー</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/5646/20201001/720x540/63864b848f1445f2a865eff574adb9bd.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvasahi" start="20230825172000 +0000" stop="20230825191500 +0000">
@@ -3252,23 +3207,13 @@
     <title lang="jp">朝だ!生です旅サラダ</title>
     <sub-title lang="jp">朝だ！生です旅サラダ　俳優・小池徹平が北海道・知床へ！世界遺産の森＆人気サウナ</sub-title>
     <desc lang="jp">朝だ！生です旅サラダ　俳優・小池徹平が北海道・知床へ！世界遺産の森＆人気サウナ</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/205/20230522/720x504/5f93dff0c42744dcb03297c58c3cf02f.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-tbs1" start="20230823202000 +0000" stop="20230823230000 +0000">
-    <title lang="jp">THE TIME,</title>
-    <sub-title lang="jp">ＴＨＥ　ＴＩＭＥ，出張！安住がいく山口へ新鮮なアレをさばく▽ガソリン高騰続く</sub-title>
-    <desc lang="jp">ＴＨＥ　ＴＩＭＥ，出張！安住がいく山口へ新鮮なアレをさばく▽ガソリン高騰続く</desc>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/679997/20230331/720x405/dc62e166bdb14c99b1e485a1f5e828d9.jpg" />
   </programme>
   <programme channel="cloventt-jp-tbs1" start="20230823230000 +0000" stop="20230824005500 +0000">
     <title lang="jp">ラヴィット!</title>
@@ -3364,20 +3309,20 @@
     <title lang="jp">ミライカプセル -I have a dream-</title>
     <sub-title lang="jp">ミライカプセル　-I have a dream-　Ｆａｓｔ　Ｂｅａｕｔｙ 高橋賢</sub-title>
     <desc lang="jp">ミライカプセル　-I have a dream-　Ｆａｓｔ　Ｂｅａｕｔｙ 高橋賢</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-tbs1" start="20230824140000 +0000" stop="20230824202000 +0000">
     <title lang="jp">世界陸上ブダペスト</title>
-    <sub-title lang="jp">世界陸上ブダペスト大会６日目　男子走幅跳決勝・男子４００ｍ決勝ほか</sub-title>
-    <desc lang="jp">世界陸上ブダペスト大会６日目　男子走幅跳決勝・男子４００ｍ決勝ほか</desc>
+    <sub-title lang="jp">世界陸上ブダペスト大会６日目　男子４００ｍ決勝・男子２００ｍ準決勝ほか</sub-title>
+    <desc lang="jp">世界陸上ブダペスト大会６日目　男子４００ｍ決勝・男子２００ｍ準決勝ほか</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">拡張</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtQQYHxgAM/20230817/1200x900/a60ffdc4b75d4ea96ecfa77dbe0ff2da.jpg" />
   </programme>
   <programme channel="cloventt-jp-tbs1" start="20230824202000 +0000" stop="20230824230000 +0000">
@@ -3425,10 +3370,10 @@
     <title lang="jp">ゴゴスマ〜GOGO!Smile!〜</title>
     <sub-title lang="jp">ゴゴスマ</sub-title>
     <desc lang="jp">ゴゴスマ</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/74829/20230315/720x540/3ee8f8b723ad4e48911bbef6ff17576a.jpg" />
   </programme>
   <programme channel="cloventt-jp-tbs1" start="20230825064900 +0000" stop="20230825100000 +0000">
@@ -3476,10 +3421,10 @@
     <desc lang="jp">中居正広の金スマ★やす子・あの・新しい学校のリーダーズ★売れっ子たちの疑惑の真相</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/301833/20201001/720x540/50f1addd235b4f09afed6f7ff77d2b35.jpg" />
   </programme>
   <programme channel="cloventt-jp-tbs1" start="20230825130000 +0000" stop="20230825135400 +0000">
@@ -3496,10 +3441,10 @@
     <title lang="jp">WatchLIST -わたしが選ぶ物語-</title>
     <sub-title lang="jp">WatchLIST -わたしが選ぶ物語-【小島秀夫】</sub-title>
     <desc lang="jp">WatchLIST -わたしが選ぶ物語-【小島秀夫】</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-tbs1" start="20230825140000 +0000" stop="20230825143000 +0000">
     <title lang="jp">A-Studio+</title>
@@ -3525,11 +3470,11 @@
     <title lang="jp">世界陸上ブダペスト</title>
     <sub-title lang="jp">世界陸上ブダペスト大会７日目　女子やり投決勝・男子４×１００ｍリレーほか</sub-title>
     <desc lang="jp">世界陸上ブダペスト大会７日目　女子やり投決勝・男子４×１００ｍリレーほか</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">拡張</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtgQYHxkAM/20230818/1200x900/6da3970c1c368b153f06cda6dcc13774.jpg" />
   </programme>
   <programme channel="cloventt-jp-tbs1" start="20230825203000 +0000" stop="20230825204500 +0000">
@@ -3572,21 +3517,6 @@
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/238623/20230104/720x403/274749fde18d45b5b8f7bdddf29260e9.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-tvtokyo" start="20230823223000 +0000" stop="20230823230000 +0000">
-    <title lang="jp">シナぷしゅ</title>
-    <sub-title lang="jp">シナぷしゅ</sub-title>
-    <desc lang="jp">シナぷしゅ</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/560403/20201001/720x245/fac2f15d39ab46f7a02d4ee083785aaa.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-tvtokyo" start="20230823230000 +0000" stop="20230823231500 +0000">
-    <title lang="jp">ハーフタイムツアーズ</title>
-    <sub-title lang="jp">ハーフタイムツアーズ</sub-title>
-    <desc lang="jp">ハーフタイムツアーズ</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-tvtokyo" start="20230823231500 +0000" stop="20230824001100 +0000">
     <title lang="jp">イ・サン</title>
@@ -3677,10 +3607,10 @@
     <desc lang="jp">家、ついて行ってイイですか？</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-tvtokyo" start="20230824084500 +0000" stop="20230824092500 +0000">
     <title lang="jp">孤独のグルメ Season9</title>
@@ -3705,10 +3635,10 @@
     <desc lang="jp">ナゼそこ？「熊本＆大分…“１日１本しか走らない路線バス”終点の先を大捜索」</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtQQw7zEAM/20230817/720x480/844b7fc21f1548b0909d197fd224f6c0.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvtokyo" start="20230824125400 +0000" stop="20230824130000 +0000">
@@ -3843,12 +3773,12 @@
     <title lang="jp">おはスタ</title>
     <sub-title lang="jp">おはスタ【Girls2のミサキ、トアがレゴマリオでワイルドに大暴れ！＆アニポケ】</sub-title>
     <desc lang="jp">おはスタ【Girls2のミサキ、トアがレゴマリオでワイルドに大暴れ！＆アニポケ】</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/307/20201001/720x540/59f9f8d6598b4a26bfdec4e545ebb38f.jpg" />
   </programme>
   <programme channel="cloventt-jp-tvtokyo" start="20230824223000 +0000" stop="20230824230000 +0000">
@@ -4046,10 +3976,10 @@
     <title lang="jp">風景の足跡</title>
     <sub-title lang="jp">風景の足跡【茨城県古河市・古河のお休み処　坂長篇】</sub-title>
     <desc lang="jp">風景の足跡【茨城県古河市・古河のお休み処　坂長篇】</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-tvtokyo" start="20230825140000 +0000" stop="20230825145800 +0000">
     <title lang="jp">WBS</title>
@@ -4192,15 +4122,24 @@
     <category lang="en">Animated</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/804857/20230701/382x540/c726ffcfae754e7e9fdd24a172821340.jpg" />
   </programme>
-  <programme channel="cloventt-jp-tokyomx" start="20230823223000 +0000" stop="20230823230000 +0000">
-    <title lang="jp">ＭＸショッピング</title>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
+  <programme channel="cloventt-jp-tvtokyo" start="20230825233000 +0000" stop="20230826000000 +0000">
+    <title lang="jp">しまじろうのわお!</title>
+    <sub-title lang="jp">しまじろうのわお！　「はなちゃんと　ふしぎなタマゴ　〜こうへん〜」</sub-title>
+    <desc lang="jp">しまじろうのわお！　「はなちゃんと　ふしぎなタマゴ　〜こうへん〜」</desc>
+    <category lang="jp">アニメ／特撮</category>
+    <category lang="en">Animated</category>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/33914/20201001/720x540/fc67f0383ed445538d67a14f35758a20.jpg" />
   </programme>
-  <programme channel="cloventt-jp-tokyomx" start="20230823230000 +0000" stop="20230823233000 +0000">
-    <title lang="jp">ＭＸショッピング</title>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
+  <programme channel="cloventt-jp-tvtokyo" start="20230826000000 +0000" stop="20230826003000 +0000">
+    <title lang="jp">ウルトラマンブレーザー</title>
+    <sub-title lang="jp">ウルトラマンブレーザー「虹が出た　前編」</sub-title>
+    <desc lang="jp">ウルトラマンブレーザー「虹が出た　前編」</desc>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
+    <category lang="jp">アニメ／特撮</category>
+    <category lang="en">Animated</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230823233000 +0000" stop="20230824024000 +0000">
     <title lang="jp">東京マーケットワイド</title>
@@ -4363,10 +4302,10 @@
     <desc lang="jp">ヒーリングタイム＆ヘッドラインニュース</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230824170000 +0000" stop="20230824180000 +0000">
     <title lang="jp">ヒーリングタイム&amp;ヘッドラインニュース</title>
@@ -4374,10 +4313,10 @@
     <desc lang="jp">ヒーリングタイム＆ヘッドラインニュース</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230824180000 +0000" stop="20230824190000 +0000">
     <title lang="jp">ヒーリングタイム&amp;ヘッドラインニュース</title>
@@ -4385,10 +4324,10 @@
     <desc lang="jp">ヒーリングタイム＆ヘッドラインニュース</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230824190000 +0000" stop="20230824200000 +0000">
     <title lang="jp">ヒーリングタイム&amp;ヘッドラインニュース</title>
@@ -4568,10 +4507,10 @@
     <desc lang="jp">ヒーリングタイム＆ヘッドラインニュース</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230825150000 +0000" stop="20230825153000 +0000">
     <title lang="jp">ヒーリングタイム&amp;ヘッドラインニュース</title>
@@ -4595,10 +4534,10 @@
     <desc lang="jp">ヒーリングタイム＆ヘッドラインニュース</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230825160500 +0000" stop="20230825163500 +0000">
     <title lang="jp">Tokyo Photo Library</title>
@@ -4620,10 +4559,10 @@
     <desc lang="jp">ヒーリングタイム＆ヘッドラインニュース</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230825190000 +0000" stop="20230825200000 +0000">
     <title lang="jp">ヒーリングタイム&amp;ヘッドラインニュース</title>
@@ -4661,10 +4600,10 @@
     <title lang="jp">妖ばなし</title>
     <sub-title lang="jp">妖ばなし</sub-title>
     <desc lang="jp">妖ばなし</desc>
-    <category lang="jp">ドラマ</category>
-    <category lang="en">Drama</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme channel="cloventt-jp-tokyomx" start="20230825224500 +0000" stop="20230825230000 +0000">
     <title lang="jp">魅せます!とちブラ〜とちぎブランド・ぶらり〜</title>
@@ -4681,15 +4620,28 @@
     <category lang="en">Educational</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/33175/20230412/429x540/648505d6059a460d826938cfc8ea66db.jpg" />
   </programme>
-  <programme channel="cloventt-jp-mbs" start="20230823202000 +0000" stop="20230823230000 +0000">
-    <title lang="jp">THE TIME,</title>
-    <sub-title lang="jp">ＴＨＥ　ＴＩＭＥ，出張！安住がいく山口へ新鮮なアレをさばく▽ガソリン高騰続く</sub-title>
-    <desc lang="jp">ＴＨＥ　ＴＩＭＥ，出張！安住がいく山口へ新鮮なアレをさばく▽ガソリン高騰続く</desc>
+  <programme channel="cloventt-jp-tokyomx" start="20230825232500 +0000" stop="20230825233000 +0000">
+    <title lang="jp">フラッシュ天気</title>
+    <sub-title lang="jp">フラッシュ天気</sub-title>
+    <desc lang="jp">フラッシュ天気</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/679997/20230331/720x405/dc62e166bdb14c99b1e485a1f5e828d9.jpg" />
+  </programme>
+  <programme channel="cloventt-jp-tokyomx" start="20230825233000 +0000" stop="20230826000000 +0000">
+    <title lang="jp">ＭＸショッピング</title>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme channel="cloventt-jp-tokyomx" start="20230826000000 +0000" stop="20230826003000 +0000">
+    <title lang="jp">宝塚カフェブレイク</title>
+    <sub-title lang="jp">宝塚カフェブレイク　★コロコロ変わる表情は必見‼星組男役・極美慎の進化</sub-title>
+    <desc lang="jp">宝塚カフェブレイク　★コロコロ変わる表情は必見‼星組男役・極美慎の進化</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
+    <category lang="jp">劇場／公演</category>
+    <category lang="en">Theatre</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230823230000 +0000" stop="20230824005500 +0000">
     <title lang="jp">ラヴィット!</title>
@@ -4719,8 +4671,8 @@
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230824012500 +0000" stop="20230824023000 +0000">
     <title lang="jp">ひるおび!</title>
-    <sub-title lang="jp">ひるおび！【慶応107年ぶり優勝▼大谷二刀流出場▼ＴＶ初取材コスパ最強スーパー】</sub-title>
-    <desc lang="jp">ひるおび！【慶応107年ぶり優勝▼大谷二刀流出場▼ＴＶ初取材コスパ最強スーパー】</desc>
+    <sub-title lang="jp">ひるおび【甲子園１０７年ぶり優勝　慶応が導く新時代とは　監督の著書を分析</sub-title>
+    <desc lang="jp">ひるおび【甲子園１０７年ぶり優勝　慶応が導く新時代とは　監督の著書を分析</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
     <category lang="jp">情報／ワイドショー</category>
@@ -4739,8 +4691,8 @@
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230824025500 +0000" stop="20230824045500 +0000">
     <title lang="jp">ひるおび!</title>
-    <sub-title lang="jp">ひるおび！【慶応107年ぶり優勝▼大谷二刀流出場▼ＴＶ初取材コスパ最強スーパー】</sub-title>
-    <desc lang="jp">ひるおび！【慶応107年ぶり優勝▼大谷二刀流出場▼ＴＶ初取材コスパ最強スーパー】</desc>
+    <sub-title lang="jp">ひるおび【甲子園１０７年ぶり優勝　慶応が導く新時代とは　監督の著書を分析</sub-title>
+    <desc lang="jp">ひるおび【甲子園１０７年ぶり優勝　慶応が導く新時代とは　監督の著書を分析</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
     <category lang="jp">情報／ワイドショー</category>
@@ -4864,10 +4816,10 @@
     <title lang="jp">オートファジーとは?ホリエモン!命の研究</title>
     <sub-title lang="jp">オートファジーとは？ホリエモン！命の研究【堀江貴文×吉森保(大阪大学大学院教授)】</sub-title>
     <desc lang="jp">オートファジーとは？ホリエモン！命の研究【堀江貴文×吉森保(大阪大学大学院教授)】</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtggQ6DsAM/20230818/1500x1000/ccbb58f6-fb29-4954-8340-1cd71e99bfdb.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230825012400 +0000" stop="20230825012500 +0000">
@@ -4911,10 +4863,10 @@
     <title lang="jp">ゴゴスマ〜GOGO!Smile!〜</title>
     <sub-title lang="jp">ゴゴスマ</sub-title>
     <desc lang="jp">ゴゴスマ</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/74829/20230315/720x540/3ee8f8b723ad4e48911bbef6ff17576a.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230825064000 +0000" stop="20230825085000 +0000">
@@ -4978,10 +4930,10 @@
     <desc lang="jp">中居正広の金スマ★やす子・あの・新しい学校のリーダーズ★売れっ子たちの疑惑の真相</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/301833/20201001/720x540/50f1addd235b4f09afed6f7ff77d2b35.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230825130000 +0000" stop="20230825135400 +0000">
@@ -5007,10 +4959,10 @@
     <desc lang="jp">Ａ－Ｓｔｕｄｉｏ＋</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtlQoFbUAM/20230823/1200x900/a064f7c1c78285423af3f7189387893b.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230825143000 +0000" stop="20230825145800 +0000">
@@ -5055,10 +5007,10 @@
     <desc lang="jp">ＴＯＫＩＯテラス【国分太一◆新企画「スタートアップ企業」の資金調達ランキング】</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/643268/20210618/720x508/1389dc563c8c4385a8b7a0a194630408.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230825213000 +0000" stop="20230825220000 +0000">
@@ -5073,17 +5025,17 @@
     <title lang="jp">グッジョブ!</title>
     <sub-title lang="jp">グッジョブ！【掛布雅之＆上泉雄一アナウンサー】</sub-title>
     <desc lang="jp">グッジョブ！【掛布雅之＆上泉雄一アナウンサー】</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230825223000 +0000" stop="20230825225900 +0000">
     <title lang="jp">所さんお届けモノです!</title>
-    <sub-title lang="jp">所さんお届けモノです！</sub-title>
-    <desc lang="jp">所さんお届けモノです！</desc>
+    <sub-title lang="jp">所さんお届けモノです！【夏に食べたい！奥州街道の名物ラー油唐揚げ＆幻スイカ】</sub-title>
+    <desc lang="jp">所さんお届けモノです！【夏に食べたい！奥州街道の名物ラー油唐揚げ＆幻スイカ】</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
     <category lang="jp">情報／ワイドショー</category>
@@ -5165,10 +5117,10 @@
     <desc lang="jp">報道特集</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/531/20221007/720x228/cc0aabf85d654f84b85b7231a9cc515a.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230826095000 +0000" stop="20230826095600 +0000">
@@ -5209,10 +5161,10 @@
     <title lang="jp">Catch!!</title>
     <sub-title lang="jp">Ｃａｔｃｈ！！</sub-title>
     <desc lang="jp">Ｃａｔｃｈ！！</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230826130000 +0000" stop="20230826142400 +0000">
     <title lang="jp">情報7daysニュースキャスター</title>
@@ -5220,10 +5172,10 @@
     <desc lang="jp">情報７ｄａｙｓニュースキャスター</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/717220/20221011/720x540/2552c009a35041238160bd1947af19e6.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230826142400 +0000" stop="20230826143000 +0000">
@@ -5258,10 +5210,10 @@
     <desc lang="jp">らくごのお時間【桂春之輔◆「ハンカチ」】</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">劇場／公演</category>
     <category lang="en">Theatre</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230826210000 +0000" stop="20230826211000 +0000">
     <title lang="jp">医のココロ</title>
@@ -5305,12 +5257,12 @@
     <title lang="jp">健康カプセル!ゲンキの時間</title>
     <sub-title lang="jp">健康カプセル！ゲンキの時間【家の中に潜む骨折のリスク…骨粗しょう症の予防法】</sub-title>
     <desc lang="jp">健康カプセル！ゲンキの時間【家の中に潜む骨折のリスク…骨粗しょう症の予防法】</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhuEwgWA0AM/20230823/3543x2362/3dfa1273-33e9-42cf-a1ed-e0781914e43a.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230826223000 +0000" stop="20230826230000 +0000">
@@ -5319,10 +5271,10 @@
     <desc lang="jp">がっちりマンデー！！</desc>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/390/20201001/720x540/8cffdee78dfb402b88f885b0f63c5cbd.jpg" />
   </programme>
   <programme channel="cloventt-jp-mbs" start="20230826230000 +0000" stop="20230827005400 +0000">
@@ -5334,21 +5286,6 @@
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhsQQYHg0AM/20230823/720x540/f3054ff3640e4058973ed53fd9fbc20b.jpg" />
-  </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230823200000 +0000" stop="20230823230000 +0000">
-    <title lang="jp">MLB2023</title>
-    <sub-title lang="jp">大谷先発　ＭＬＢ２０２３「レッズ」対「エンジェルス」</sub-title>
-    <desc lang="jp">大谷先発　ＭＬＢ２０２３「レッズ」対「エンジェルス」</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
-  </programme>
-  <programme channel="cloventt-jp-nhkbs1" start="20230823230000 +0000" stop="20230823235000 +0000">
-    <title lang="jp">ワールドニュース</title>
-    <sub-title lang="jp">ワールドニュース</sub-title>
-    <desc lang="jp">ワールドニュース</desc>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230823235000 +0000" stop="20230824000000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -5373,10 +5310,10 @@
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824010000 +0000" stop="20230824011500 +0000">
     <title lang="jp">グレートレース１５ｍｉｎ．▽香港２９８ｋｍ突破率８％の壁に挑め　ダイジェスト</title>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824011500 +0000" stop="20230824013000 +0000">
     <title lang="jp">地球タクシー 15min.ドライブ</title>
@@ -5389,9 +5326,9 @@
     <title lang="jp">MLB2023</title>
     <sub-title lang="jp">大谷出場予定　ＭＬＢ２０２３「レッズ」対「エンジェルス」</sub-title>
     <desc lang="jp">大谷出場予定　ＭＬＢ２０２３「レッズ」対「エンジェルス」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824045000 +0000" stop="20230824050000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -5469,19 +5406,19 @@
     <title lang="jp">2023MLB ウイークリー</title>
     <sub-title lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</sub-title>
     <desc lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824084500 +0000" stop="20230824085000 +0000">
     <title lang="jp">グレートレース 5min.</title>
     <sub-title lang="jp">グレートレース　５ｍｉｎ．　完走率４％！ニュージーランド２１６ｋｍ　＃主催者</sub-title>
     <desc lang="jp">グレートレース　５ｍｉｎ．　完走率４％！ニュージーランド２１６ｋｍ　＃主催者</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824085000 +0000" stop="20230824090000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -5494,20 +5431,20 @@
     <title lang="jp">プロ野球2023</title>
     <sub-title lang="jp">プロ野球２０２３「ロッテ」対「ソフトバンク」</sub-title>
     <desc lang="jp">プロ野球２０２３「ロッテ」対「ソフトバンク」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824123000 +0000" stop="20230824130000 +0000">
     <title lang="jp">釣りびと万歳</title>
     <sub-title lang="jp">釣りびと万歳　アワセ時を見極めろ　夏のマゴチ〜坂東彌十郎　神奈川・東京湾〜</sub-title>
     <desc lang="jp">釣りびと万歳　アワセ時を見極めろ　夏のマゴチ〜坂東彌十郎　神奈川・東京湾〜</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824130000 +0000" stop="20230824134000 +0000">
     <title lang="jp">国際報道</title>
@@ -5541,10 +5478,10 @@
     <title lang="jp">北アルプス 美の点描</title>
     <sub-title lang="jp">北アルプス　美の点描</sub-title>
     <desc lang="jp">北アルプス　美の点描</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824160000 +0000" stop="20230824170000 +0000">
     <title lang="jp">空からクルージング 特別編</title>
@@ -5578,10 +5515,10 @@
     <title lang="jp">Zero Waste Life</title>
     <sub-title lang="jp">Ｚｅｒｏ　Ｗａｓｔｅ　Ｌｉｆｅ　コルクで描く肖像画</sub-title>
     <desc lang="jp">Ｚｅｒｏ　Ｗａｓｔｅ　Ｌｉｆｅ　コルクで描く肖像画</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824194500 +0000" stop="20230824200000 +0000">
     <title lang="jp">DEEPER LOOK</title>
@@ -5601,10 +5538,10 @@
     <title lang="jp">Asia Insight</title>
     <sub-title lang="jp">Ａｓｉａ　Ｉｎｓｉｇｈｔ　選　韓国　深まるジェンダー対立</sub-title>
     <desc lang="jp">Ａｓｉａ　Ｉｎｓｉｇｈｔ　選　韓国　深まるジェンダー対立</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230824210000 +0000" stop="20230824215000 +0000">
     <title lang="jp">ワールドニュース</title>
@@ -5640,9 +5577,9 @@
     <title lang="jp">MLB2023</title>
     <sub-title lang="jp">鈴木出場予定　ＭＬＢ２０２３「カブス」対「パイレーツ」</sub-title>
     <desc lang="jp">鈴木出場予定　ＭＬＢ２０２３「カブス」対「パイレーツ」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230825023000 +0000" stop="20230825024000 +0000">
     <title lang="jp">沁(し)みる夜汽車 2021夏 やさしい嘘(うそ)</title>
@@ -5683,10 +5620,10 @@
     <title lang="jp">BS世界のドキュメンタリー</title>
     <sub-title lang="jp">ＢＳ世界のドキュメンタリー選▽イギリス王室の至宝－戴冠宝器の知られざる物語－</sub-title>
     <desc lang="jp">ＢＳ世界のドキュメンタリー選▽イギリス王室の至宝－戴冠宝器の知られざる物語－</desc>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">ニュース／報道</category>
+    <category lang="en">News</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230825045000 +0000" stop="20230825050000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -5713,12 +5650,12 @@
     <title lang="jp">COOL JAPAN〜発掘!かっこいいニッポン〜</title>
     <sub-title lang="jp">ＣＯＯＬ　ＪＡＰＡＮ　ぼかし　Ｂｌｕｒｒｉｎｇ</sub-title>
     <desc lang="jp">ＣＯＯＬ　ＪＡＰＡＮ　ぼかし　Ｂｌｕｒｒｉｎｇ</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230825064500 +0000" stop="20230825065000 +0000">
     <title lang="jp">Jリーグと私 30年の物語</title>
@@ -5738,10 +5675,10 @@
     <title lang="jp">グレートレース</title>
     <sub-title lang="jp">グレートレース「走る民族の大地を駆けろ！　メキシコ大渓谷２５０ｋｍ」</sub-title>
     <desc lang="jp">グレートレース「走る民族の大地を駆けろ！　メキシコ大渓谷２５０ｋｍ」</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230825084000 +0000" stop="20230825085000 +0000">
     <title lang="jp">突撃!ストリートシェフ</title>
@@ -5749,10 +5686,10 @@
     <desc lang="jp">突撃！ストリートシェフ　＠メキシコシティ　庶民の味方！豚のタコス</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230825085000 +0000" stop="20230825090000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -5765,18 +5702,18 @@
     <title lang="jp">プロ野球2023</title>
     <sub-title lang="jp">プロ野球２０２３「広島」対「ヤクルト」</sub-title>
     <desc lang="jp">プロ野球２０２３「広島」対「ヤクルト」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230825123000 +0000" stop="20230825130000 +0000">
     <title lang="jp">チャリダー★快汗!サイクルクリニック</title>
     <sub-title lang="jp">チャリダー★快汗！サイクルクリニック　歴史街道の旅　武田信玄編</sub-title>
     <desc lang="jp">チャリダー★快汗！サイクルクリニック　歴史街道の旅　武田信玄編</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/136267/20201001/720x540/63a99ea77bfc49cd9bea9057cc0279dc.jpg" />
@@ -5820,10 +5757,10 @@
     <title lang="jp">雪の魔法</title>
     <sub-title lang="jp">雪の魔法</sub-title>
     <desc lang="jp">雪の魔法</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230825180000 +0000" stop="20230825190000 +0000">
     <title lang="jp">美しき日本の山々</title>
@@ -5903,9 +5840,9 @@
     <title lang="jp">MLB2023</title>
     <sub-title lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</sub-title>
     <desc lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230826025000 +0000" stop="20230826030000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -5918,9 +5855,9 @@
     <title lang="jp">奇跡のレッスン</title>
     <sub-title lang="jp">奇跡のレッスン　男子サッカー　ハンス・オフト</sub-title>
     <desc lang="jp">奇跡のレッスン　男子サッカー　ハンス・オフト</desc>
-    <category lang="jp">拡張</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230826045000 +0000" stop="20230826050000 +0000">
     <title lang="jp">BSニュースWorld+Biz</title>
@@ -5940,21 +5877,21 @@
     <title lang="jp">2023MLB ウイークリー</title>
     <sub-title lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</sub-title>
     <desc lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230826070000 +0000" stop="20230826075000 +0000">
     <title lang="jp">スポヂカラ! 小さな球場 夢はぐくむ 〜 高知ファイティングドッグス</title>
     <sub-title lang="jp">スポヂカラ！　小さな球場　夢はぐくむ　〜　高知ファイティングドッグス</sub-title>
     <desc lang="jp">スポヂカラ！　小さな球場　夢はぐくむ　〜　高知ファイティングドッグス</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">ニュース／報道</category>
+    <category lang="en">News</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230826075000 +0000" stop="20230826093000 +0000">
     <title lang="jp">ケーキの切れない非行少年たち</title>
@@ -5967,10 +5904,10 @@
     <title lang="jp">チャリダー★快汗!サイクルクリニック</title>
     <sub-title lang="jp">チャリダー★快汗！サイクルクリニック　佐渡ロングライド人生最長距離挑戦前編</sub-title>
     <desc lang="jp">チャリダー★快汗！サイクルクリニック　佐渡ロングライド人生最長距離挑戦前編</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
   </programme>
@@ -5995,10 +5932,10 @@
     <desc lang="jp">突撃！ストリートシェフ　＠メキシコシティ　究極の唐辛子料理</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230826130000 +0000" stop="20230826134000 +0000">
     <title lang="jp">ワースポ×MLB</title>
@@ -6046,10 +5983,10 @@
     <title lang="jp">水・族・館</title>
     <sub-title lang="jp">水・族・館「八景島シーパラダイス」</sub-title>
     <desc lang="jp">水・族・館「八景島シーパラダイス」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230826193000 +0000" stop="20230826200000 +0000">
     <title lang="jp">FRONTRUNNERS</title>
@@ -6083,9 +6020,9 @@
     <title lang="jp">MLB2023</title>
     <sub-title lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</sub-title>
     <desc lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827020000 +0000" stop="20230827025000 +0000">
     <title lang="jp">BS1スペシャル</title>
@@ -6138,23 +6075,23 @@
     <title lang="jp">ランスマ倶楽部</title>
     <sub-title lang="jp">ランスマ倶楽部　駅伝三冠！駒澤大学　強さの秘密スペシャル</sub-title>
     <desc lang="jp">ランスマ倶楽部　駅伝三冠！駒澤大学　強さの秘密スペシャル</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827090000 +0000" stop="20230827094500 +0000">
     <title lang="jp">COOL JAPAN〜発掘!かっこいいニッポン〜</title>
     <sub-title lang="jp">ＣＯＯＬ　ＪＡＰＡＮ　コト消費</sub-title>
     <desc lang="jp">ＣＯＯＬ　ＪＡＰＡＮ　コト消費</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/23200/20201001/400x300/35c098e0f6524f81b5643a8ee2737790.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827094500 +0000" stop="20230827095500 +0000">
@@ -6168,21 +6105,21 @@
     <title lang="jp">街角ピアノ 25min.</title>
     <sub-title lang="jp">街角ピアノ　２５ｍｉｎ．「旭川」</sub-title>
     <desc lang="jp">街角ピアノ　２５ｍｉｎ．「旭川」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827102000 +0000" stop="20230827111000 +0000">
     <title lang="jp">命のしずく 〜あるトランスジェンダー 魂の旋律〜</title>
     <sub-title lang="jp">命のしずく　〜あるトランスジェンダー　魂の旋律〜</sub-title>
     <desc lang="jp">命のしずく　〜あるトランスジェンダー　魂の旋律〜</desc>
-    <category lang="jp">音楽</category>
-    <category lang="en">Music</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">音楽</category>
+    <category lang="en">Music</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827111000 +0000" stop="20230827120000 +0000">
     <title lang="jp">レジェンドの目撃者</title>
@@ -6210,10 +6147,10 @@
     <title lang="jp">Jリーグタイム</title>
     <sub-title lang="jp">Ｊリーグタイム「Ｊ１　第２５節」</sub-title>
     <desc lang="jp">Ｊリーグタイム「Ｊ１　第２５節」</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827143000 +0000" stop="20230827152000 +0000">
     <title lang="jp">サッカーの園〜究極のワンプレー〜</title>
@@ -6226,27 +6163,27 @@
     <title lang="jp">2023MLB ウイークリー</title>
     <sub-title lang="jp">２０２３ＭＬＢ　ウイークリー（１８）</sub-title>
     <desc lang="jp">２０２３ＭＬＢ　ウイークリー（１８）</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827154000 +0000" stop="20230827160000 +0000">
     <title lang="jp">2023MLB ウイークリー</title>
     <sub-title lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</sub-title>
     <desc lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827160000 +0000" stop="20230827193000 +0000">
     <title lang="jp">MLB2023</title>
     <sub-title lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</sub-title>
     <desc lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">拡張</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827193000 +0000" stop="20230827200000 +0000">
     <title lang="jp">プラネットアース 絶景・天空の旅</title>
@@ -6266,10 +6203,10 @@
     <title lang="jp">2023MLB ウイークリー</title>
     <sub-title lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</sub-title>
     <desc lang="jp">２０２３ＭＬＢ　ウイークリー（１９）</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbs1" start="20230827211000 +0000" stop="20230827220000 +0000">
     <title lang="jp">おいしい東京</title>
@@ -6301,16 +6238,20 @@
     <category lang="jp">ニュース／報道</category>
     <category lang="en">News</category>
   </programme>
-  <programme channel="cloventt-jp-nhkbsp" start="20230823224500 +0000" stop="20230823230000 +0000">
-    <title lang="jp">自転車旅 ユーロヴェロ90000キロ ミニ</title>
-    <sub-title lang="jp">自転車旅　ユーロヴェロ９００００キロ　ミニ（１９）ダム湖をめぐる</sub-title>
-    <desc lang="jp">自転車旅　ユーロヴェロ９００００キロ　ミニ（１９）ダム湖をめぐる</desc>
+  <programme channel="cloventt-jp-nhkbs1" start="20230827235000 +0000" stop="20230828000000 +0000">
+    <title lang="jp">BSニュースWorld+Biz</title>
+    <sub-title lang="jp">ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ</sub-title>
+    <desc lang="jp">ＢＳニュースＷｏｒｌｄ＋Ｂｉｚ</desc>
+    <category lang="jp">ニュース／報道</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme channel="cloventt-jp-nhkbs1" start="20230828000000 +0000" stop="20230828025500 +0000">
+    <title lang="jp">MLB2023</title>
+    <sub-title lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</sub-title>
+    <desc lang="jp">大谷出場予定　ＭＬＢ２０２３「エンジェルス」対「メッツ」</desc>
+    <category lang="jp">拡張</category>
     <category lang="jp">スポーツ</category>
     <category lang="en">Sports</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230823230000 +0000" stop="20230824003000 +0000">
     <title lang="jp">にっぽん百名山</title>
@@ -6352,10 +6293,10 @@
     <title lang="jp">ダーウィンが来た!</title>
     <sub-title lang="jp">ダーウィンが来た！「解明！本当のニホンオオカミ」</sub-title>
     <desc lang="jp">ダーウィンが来た！「解明！本当のニホンオオカミ」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824035900 +0000" stop="20230824040000 +0000">
     <title lang="jp">【ＢＳ時代劇】「雲霧仁左衛門６」ＰＲ</title>
@@ -6401,21 +6342,21 @@
     <desc lang="jp">六角精児の呑み鉄本線・日本旅「夏・石北本線を呑む！」</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824090000 +0000" stop="20230824100000 +0000">
     <title lang="jp">世界ふれあい街歩き</title>
     <sub-title lang="jp">世界ふれあい街歩き　選「シルクロード　青の都　サマルカンド〜ウズベキスタン〜」</sub-title>
     <desc lang="jp">世界ふれあい街歩き　選「シルクロード　青の都　サマルカンド〜ウズベキスタン〜」</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824100000 +0000" stop="20230824103000 +0000">
     <title lang="jp">一度は行ってみたい!もふもふ温泉</title>
@@ -6429,19 +6370,19 @@
     <title lang="jp">にっぽん百名山</title>
     <sub-title lang="jp">にっぽん百名山　大雪山系・トムラウシ山へ　〜北海道の屋根を大縦走！〜</sub-title>
     <desc lang="jp">にっぽん百名山　大雪山系・トムラウシ山へ　〜北海道の屋根を大縦走！〜</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824120000 +0000" stop="20230824130000 +0000">
     <title lang="jp">ダークサイドミステリー</title>
     <sub-title lang="jp">ダークサイドミステリー　黄金時代の怪奇名作の秘密　ドラキュラ！タイムマシン！</sub-title>
     <desc lang="jp">ダークサイドミステリー　黄金時代の怪奇名作の秘密　ドラキュラ！タイムマシン！</desc>
-    <category lang="jp">映画</category>
-    <category lang="en">Movie</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">映画</category>
+    <category lang="en">Movie</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824130000 +0000" stop="20230824140000 +0000">
     <title lang="jp">コズミック フロント</title>
@@ -6454,10 +6395,10 @@
     <title lang="jp">ヒューマニエンス 40億年のたくらみ</title>
     <sub-title lang="jp">ヒューマニエンス「“鉄”　天地創造のテツ学」</sub-title>
     <desc lang="jp">ヒューマニエンス「“鉄”　天地創造のテツ学」</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824150000 +0000" stop="20230824160000 +0000">
     <title lang="jp">コッソンビ 二花院(イファウォン)の秘密</title>
@@ -6521,41 +6462,41 @@
     <desc lang="jp">名曲アルバム「箱根馬子唄」日高哲英・編曲</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824210000 +0000" stop="20230824212900 +0000">
     <title lang="jp">にっぽん縦断 こころ旅 とうちゃこ</title>
     <sub-title lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９６日目　新潟県妙高市</sub-title>
     <desc lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９６日目　新潟県妙高市</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824212900 +0000" stop="20230824220000 +0000">
     <title lang="jp">にっぽん縦断 こころ旅 とうちゃこ</title>
     <sub-title lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９７日目　新潟県長岡市</sub-title>
     <desc lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９７日目　新潟県長岡市</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824220000 +0000" stop="20230824221500 +0000">
     <title lang="jp">イロトリドリ!探鳥絶景旅</title>
     <sub-title lang="jp">イロトリドリ！探鳥絶景旅　西表島</sub-title>
     <desc lang="jp">イロトリドリ！探鳥絶景旅　西表島</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824221500 +0000" stop="20230824223000 +0000">
     <title lang="jp">あまちゃん</title>
@@ -6575,21 +6516,21 @@
     <title lang="jp">自転車旅 ユーロヴェロ90000キロ ミニ</title>
     <sub-title lang="jp">自転車旅　ユーロヴェロ９００００キロ　ミニ（２０）プラハ到着！</sub-title>
     <desc lang="jp">自転車旅　ユーロヴェロ９００００キロ　ミニ（２０）プラハ到着！</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230824230000 +0000" stop="20230825000000 +0000">
     <title lang="jp">新日本風土記</title>
     <sub-title lang="jp">新日本風土記　夏の祈り</sub-title>
     <desc lang="jp">新日本風土記　夏の祈り</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/21301/20201001/720x540/1b63d60b5b1447d88380ecb9561a16b9.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230825000000 +0000" stop="20230825002500 +0000">
@@ -6624,10 +6565,10 @@
     <title lang="jp">飛行船で巡る世界遺産「ゴシックとヨーロッパ」</title>
     <sub-title lang="jp">飛行船で巡る世界遺産「ゴシックとヨーロッパ」</sub-title>
     <desc lang="jp">飛行船で巡る世界遺産「ゴシックとヨーロッパ」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230825030000 +0000" stop="20230825033800 +0000">
     <title lang="jp">よみがえる新日本紀行</title>
@@ -6652,10 +6593,10 @@
     <title lang="jp">さわやか自然百景</title>
     <sub-title lang="jp">さわやか自然百景　選　夏　北海道　幌尻岳</sub-title>
     <desc lang="jp">さわやか自然百景　選　夏　北海道　幌尻岳</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230825040000 +0000" stop="20230825054200 +0000">
     <title lang="jp">追跡</title>
@@ -6791,10 +6732,10 @@
     <title lang="jp">中国名山紀行</title>
     <sub-title lang="jp">中国名山紀行「五台山」</sub-title>
     <desc lang="jp">中国名山紀行「五台山」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230825201000 +0000" stop="20230825202700 +0000">
     <title lang="jp">絶景!ヨーロッパの山小屋めぐり</title>
@@ -6821,21 +6762,21 @@
     <title lang="jp">さわやか自然百景</title>
     <sub-title lang="jp">さわやか自然百景　草津白根山　山麓の湿地群</sub-title>
     <desc lang="jp">さわやか自然百景　草津白根山　山麓の湿地群</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230825214500 +0000" stop="20230825221500 +0000">
     <title lang="jp">美の壺</title>
     <sub-title lang="jp">美の壺「食を彩る　絵皿」</sub-title>
     <desc lang="jp">美の壺「食を彩る　絵皿」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/23195/20210415/720x540/5167873a2d4d4e61911d34824c030596.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230825221500 +0000" stop="20230825223000 +0000">
@@ -6856,10 +6797,10 @@
     <title lang="jp">にっぽん百名山</title>
     <sub-title lang="jp">にっぽん百名山「八海山〜神の領域をゆく〜」</sub-title>
     <desc lang="jp">にっぽん百名山「八海山〜神の領域をゆく〜」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230826000000 +0000" stop="20230826001500 +0000">
     <title lang="jp">岩合光昭の世界ネコ歩きmini</title>
@@ -6872,10 +6813,10 @@
     <title lang="jp">グレートネイチャー 10min.</title>
     <sub-title lang="jp">グレートネイチャー　１０ｍｉｎ．　誕生！熱と氷の“洪水大陸”〜北アメリカ〜</sub-title>
     <desc lang="jp">グレートネイチャー　１０ｍｉｎ．　誕生！熱と氷の“洪水大陸”〜北アメリカ〜</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230826002500 +0000" stop="20230826004000 +0000">
     <title lang="jp">らんまん</title>
@@ -6916,10 +6857,10 @@
     <title lang="jp">謎解き!ヒミツの至宝さん</title>
     <sub-title lang="jp">謎解き！ヒミツの至宝さん　縄文丸木舟</sub-title>
     <desc lang="jp">謎解き！ヒミツの至宝さん　縄文丸木舟</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtwBnOaoAE/20230819/512x313/39503_1.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230826022500 +0000" stop="20230826023000 +0000">
@@ -7045,10 +6986,10 @@
     <title lang="jp">グランド・グルメ ヨーロッパ食材紀行</title>
     <sub-title lang="jp">グランド・グルメ　ヨーロッパ食材紀行「ウナギの味はテムズの流れとともに」</sub-title>
     <desc lang="jp">グランド・グルメ　ヨーロッパ食材紀行「ウナギの味はテムズの流れとともに」</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230826203000 +0000" stop="20230826210000 +0000">
     <title lang="jp">驚き!地球!グレートネイチャー</title>
@@ -7061,22 +7002,22 @@
     <title lang="jp">新日本風土記</title>
     <sub-title lang="jp">新日本風土記「ライブハウスの旅」</sub-title>
     <desc lang="jp">新日本風土記「ライブハウスの旅」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/21301/20201001/720x540/1b63d60b5b1447d88380ecb9561a16b9.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230826220000 +0000" stop="20230826223000 +0000">
     <title lang="jp">釣りびと万歳</title>
     <sub-title lang="jp">釣りびと万歳▽アワセ時を見極めろ　夏のマゴチ〜坂東彌十郎　神奈川・東京湾〜</sub-title>
     <desc lang="jp">釣りびと万歳▽アワセ時を見極めろ　夏のマゴチ〜坂東彌十郎　神奈川・東京湾〜</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230826223000 +0000" stop="20230826230000 +0000">
     <title lang="jp">テントを背負って</title>
@@ -7096,10 +7037,10 @@
     <title lang="jp">ダーウィンが来た!</title>
     <sub-title lang="jp">ダーウィンが来た！「ようこそ！牧野富太郎の植物らんまんワールド」</sub-title>
     <desc lang="jp">ダーウィンが来た！「ようこそ！牧野富太郎の植物らんまんワールド」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230827000000 +0000" stop="20230827001500 +0000">
     <title lang="jp">あまちゃん</title>
@@ -7154,12 +7095,12 @@
     <title lang="jp">美の壺</title>
     <sub-title lang="jp">美の壺「琉球の心を映す　紅型（びんがた）」</sub-title>
     <desc lang="jp">美の壺「琉球の心を映す　紅型（びんがた）」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/23195/20210415/720x540/5167873a2d4d4e61911d34824c030596.jpg" />
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230827040000 +0000" stop="20230827052900 +0000">
@@ -7193,12 +7134,12 @@
     <title lang="jp">釣りびと万歳</title>
     <sub-title lang="jp">釣りびと万歳　清らかな夏の湖！キザキマスを追う〜福山康平　長野・木崎湖〜</sub-title>
     <desc lang="jp">釣りびと万歳　清らかな夏の湖！キザキマスを追う〜福山康平　長野・木崎湖〜</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230827090000 +0000" stop="20230827094500 +0000">
     <title lang="jp">どうする家康</title>
@@ -7290,32 +7231,32 @@
     <desc lang="jp">名曲アルバム「君を愛す」グリーグ作曲／挾間美帆・編曲</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230827210000 +0000" stop="20230827212900 +0000">
     <title lang="jp">にっぽん縦断 こころ旅 とうちゃこ</title>
     <sub-title lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９８日目　新潟県弥彦村</sub-title>
     <desc lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９８日目　新潟県弥彦村</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230827212900 +0000" stop="20230827220000 +0000">
     <title lang="jp">にっぽん縦断 こころ旅 とうちゃこ</title>
     <sub-title lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９９日目　新潟県阿賀野市</sub-title>
     <desc lang="jp">にっぽん縦断　こころ旅　とうちゃこ　１１９９日目　新潟県阿賀野市</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230827220000 +0000" stop="20230827221500 +0000">
     <title lang="jp">岩合光昭の世界ネコ歩きmini</title>
@@ -7342,10 +7283,10 @@
     <title lang="jp">聖なる巡礼路を行くII</title>
     <sub-title lang="jp">聖なる巡礼路を行くⅡ〜アンダルシア　イスラム文化をたどる〜</sub-title>
     <desc lang="jp">聖なる巡礼路を行くⅡ〜アンダルシア　イスラム文化をたどる〜</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-nhkbsp" start="20230827230000 +0000" stop="20230828003000 +0000">
     <title lang="jp">ワイルドライフ</title>
@@ -7353,16 +7294,6 @@
     <desc lang="jp">ワイルドライフ　国際共同制作　グリーンプラネット「乾きの大地／激変の世界」</desc>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
-  </programme>
-  <programme channel="cloventt-jp-bsnippontv" start="20230823220000 +0000" stop="20230823230000 +0000">
-    <title lang="jp">ショッピングＱ</title>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme channel="cloventt-jp-bsnippontv" start="20230823230000 +0000" stop="20230823233000 +0000">
-    <title lang="jp">テレビショッピング</title>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230823233000 +0000" stop="20230824000000 +0000">
     <title lang="jp">それいけ!アンパンマンくらぶ</title>
@@ -7671,10 +7602,10 @@
     <title lang="jp">ゴルフサバイバル</title>
     <sub-title lang="jp">ゴルフサバイバル▽衝撃の結末…８月の陣　第４週（山梨・小淵沢ＣＣ）</sub-title>
     <desc lang="jp">ゴルフサバイバル▽衝撃の結末…８月の陣　第４週（山梨・小淵沢ＣＣ）</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230825130000 +0000" stop="20230825133000 +0000">
     <title lang="jp">ボウリング革命 P★League</title>
@@ -7690,10 +7621,10 @@
     <title lang="jp">斎藤佑樹 ロンドン発!500マイルの旅</title>
     <sub-title lang="jp">斎藤佑樹　ロンドン発！５００マイルの旅▽羊と斎藤佑樹　イギリスで一番美しい村へ</sub-title>
     <desc lang="jp">斎藤佑樹　ロンドン発！５００マイルの旅▽羊と斎藤佑樹　イギリスで一番美しい村へ</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230825140000 +0000" stop="20230825143000 +0000">
     <title lang="jp">D4DJ All Mix</title>
@@ -7792,10 +7723,10 @@
     <title lang="jp">ゴルフサバイバル</title>
     <sub-title lang="jp">ゴルフサバイバル　アンコール▽女王が決まる！７月の陣　第４週（茨城・常陽ＣＣ）</sub-title>
     <desc lang="jp">ゴルフサバイバル　アンコール▽女王が決まる！７月の陣　第４週（茨城・常陽ＣＣ）</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230826000000 +0000" stop="20230826003000 +0000">
     <title lang="jp">テレビショッピング</title>
@@ -7895,10 +7826,10 @@
     <desc lang="jp">おぎやはぎの愛車遍歴▽祝10回！「愛車遍歴的カー・オブ・ザ・イヤー２０２３」</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/24402/20201001/400x300/8a4c8a4de5fb4818a8296a3fc1bb8ac6.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230826125400 +0000" stop="20230826130000 +0000">
@@ -7912,10 +7843,10 @@
     <title lang="jp">それって!?実際どうなの課</title>
     <sub-title lang="jp">それって!?実際どうなの課▽かつお節プラスで太らない▽排水設備工の世界</sub-title>
     <desc lang="jp">それって!?実際どうなの課▽かつお節プラスで太らない▽排水設備工の世界</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230826135400 +0000" stop="20230826140000 +0000">
     <title lang="jp">コーポレートファイル</title>
@@ -8027,10 +7958,10 @@
     <title lang="jp">あの日は消えない 被爆78年 背負い続けるヒロシマ</title>
     <sub-title lang="jp">ＮＮＮドキュメント’２３</sub-title>
     <desc lang="jp">ＮＮＮドキュメント’２３</desc>
-    <category lang="jp">ニュース／報道</category>
-    <category lang="en">News</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">ニュース／報道</category>
+    <category lang="en">News</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230826233000 +0000" stop="20230827000000 +0000">
     <title lang="jp">テレビショッピング</title>
@@ -8041,10 +7972,10 @@
     <title lang="jp">北海道すたいる</title>
     <sub-title lang="jp">北海道すたいる　夏の十勝でアウトドア！▽日本唯一ワイン樽サウナ▽絶景サイクリング</sub-title>
     <desc lang="jp">北海道すたいる　夏の十勝でアウトドア！▽日本唯一ワイン樽サウナ▽絶景サイクリング</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230827002500 +0000" stop="20230827003000 +0000">
     <title lang="jp">お得α</title>
@@ -8077,10 +8008,10 @@
     <title lang="jp">流響院の夏 〜京都の庭園と文学者たち〜</title>
     <sub-title lang="jp">流響院の夏　〜京都の庭園と文学者たち〜</sub-title>
     <desc lang="jp">流響院の夏　〜京都の庭園と文学者たち〜</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230827030000 +0000" stop="20230827045500 +0000">
     <title lang="jp">サスペンス名作選</title>
@@ -8110,20 +8041,20 @@
     <title lang="jp">夢釣行〜一魚一会の旅〜</title>
     <sub-title lang="jp">夢釣行▽至福の時を共有するトカラ列島の釣り〜ビッグゲームを楽しむ南洋の夏休み〜</sub-title>
     <desc lang="jp">夢釣行▽至福の時を共有するトカラ列島の釣り〜ビッグゲームを楽しむ南洋の夏休み〜</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/21841/20201001/720x540/3f00191b8d484759892d281d1e1cf7bc.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230827083000 +0000" stop="20230827090000 +0000">
     <title lang="jp">ストロングポイントX</title>
     <sub-title lang="jp">ストロングポイントＸ　くりぃむしちゅー上田晋也がパラスポーツを応援!!</sub-title>
     <desc lang="jp">ストロングポイントＸ　くりぃむしちゅー上田晋也がパラスポーツを応援!!</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-bsnippontv" start="20230827090000 +0000" stop="20230827093000 +0000">
     <title lang="jp">旬感レシピ</title>
@@ -8282,13 +8213,20 @@
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme channel="cloventt-jp-bsasahi" start="20230823223000 +0000" stop="20230823230000 +0000">
-    <title lang="jp">おはようセレクション</title>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
+  <programme channel="cloventt-jp-bsnippontv" start="20230827233000 +0000" stop="20230828000000 +0000">
+    <title lang="jp">それいけ!アンパンマンくらぶ</title>
+    <sub-title lang="jp">それいけ！アンパンマンくらぶ　アンパンマンとチャレンジ！おやさいクイズ</sub-title>
+    <desc lang="jp">それいけ！アンパンマンくらぶ　アンパンマンとチャレンジ！おやさいクイズ</desc>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">アニメ／特撮</category>
+    <category lang="en">Animated</category>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/21460/20201001/720x540/805e28fda6754eee8e90c85056d0af84.jpg" />
   </programme>
-  <programme channel="cloventt-jp-bsasahi" start="20230823230000 +0000" stop="20230823233000 +0000">
-    <title lang="jp">トク選！いきいき健康便</title>
+  <programme channel="cloventt-jp-bsnippontv" start="20230828000000 +0000" stop="20230828003000 +0000">
+    <title lang="jp">ショップジャパン</title>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
@@ -8399,31 +8337,31 @@
     <title lang="jp">つながる絵本 for SDGs</title>
     <sub-title lang="jp">つながる絵本 for SDGs　「H＆W 生産者を守る缶詰」</sub-title>
     <desc lang="jp">つながる絵本 for SDGs　「H＆W 生産者を守る缶詰」</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230824120000 +0000" stop="20230824125400 +0000">
     <title lang="jp">あなたの知らない京都旅〜1200年の物語〜</title>
     <sub-title lang="jp">あなたの知らない京都旅〜1200年の物語〜　「徳川家康が創った京都」</sub-title>
     <desc lang="jp">あなたの知らない京都旅〜1200年の物語〜　「徳川家康が創った京都」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtQCXN84AE/20230817/1920x1280/784face8-99ab-4bf2-9a96-bb8aa520ba1b.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230824125400 +0000" stop="20230824130000 +0000">
     <title lang="jp">私の幸福時間</title>
     <sub-title lang="jp">私の幸福時間　＃350 山口県／愛犬と名所めぐり</sub-title>
     <desc lang="jp">私の幸福時間　＃350 山口県／愛犬と名所めぐり</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230824130000 +0000" stop="20230824133000 +0000">
     <title lang="jp">カーグラフィックTV</title>
@@ -8448,12 +8386,12 @@
     <title lang="jp">Fresh Faces</title>
     <sub-title lang="jp">Fresh　Faces　＃416 湊三次郎</sub-title>
     <desc lang="jp">Fresh　Faces　＃416 湊三次郎</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230824140000 +0000" stop="20230824150000 +0000">
     <title lang="jp">55:15 Never Too Late</title>
@@ -8486,23 +8424,23 @@
     <title lang="jp">とっておき 車窓紀行 mini</title>
     <sub-title lang="jp">とっておき 車窓紀行 mini　＃6</sub-title>
     <desc lang="jp">とっておき 車窓紀行 mini　＃6</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230824190000 +0000" stop="20230824193000 +0000">
     <title lang="jp">とっておき 車窓紀行 mini</title>
     <sub-title lang="jp">とっておき 車窓紀行 mini　＃4</sub-title>
     <desc lang="jp">とっておき 車窓紀行 mini　＃4</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230824193000 +0000" stop="20230824200000 +0000">
     <title lang="jp">音楽のある風景</title>
@@ -8522,12 +8460,12 @@
     <title lang="jp">日本のチカラ</title>
     <sub-title lang="jp">日本のチカラ　「103歳 哲代さんのひとり暮らし」</sub-title>
     <desc lang="jp">日本のチカラ　「103歳 哲代さんのひとり暮らし」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230824205500 +0000" stop="20230824212500 +0000">
     <title lang="jp">贈り物ＴＶ</title>
@@ -8695,31 +8633,31 @@
     <title lang="jp">つながる絵本 for SDGs</title>
     <sub-title lang="jp">つながる絵本 for SDGs　「岐阜県立森林文化アカデミー 森の学び舎」</sub-title>
     <desc lang="jp">つながる絵本 for SDGs　「岐阜県立森林文化アカデミー 森の学び舎」</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230825120000 +0000" stop="20230825125400 +0000">
     <title lang="jp">ネコいぬワイドショー</title>
     <sub-title lang="jp">ネコいぬワイドショー　「すべてのネコ・いぬが幸せ」となる情報をお届け！</sub-title>
     <desc lang="jp">ネコいぬワイドショー　「すべてのネコ・いぬが幸せ」となる情報をお届け！</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtgCXOCAAE/20230818/1536x1024/47ee53e7-bb39-492f-bc3b-74e7ba56c988.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230825125400 +0000" stop="20230825130000 +0000">
     <title lang="jp">私の幸福時間</title>
     <sub-title lang="jp">私の幸福時間　＃351 山口県／フラダンス</sub-title>
     <desc lang="jp">私の幸福時間　＃351 山口県／フラダンス</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230825130000 +0000" stop="20230825135400 +0000">
     <title lang="jp">臨場 続章</title>
@@ -8799,23 +8737,23 @@
     <title lang="jp">とっておき 車窓紀行 mini</title>
     <sub-title lang="jp">とっておき 車窓紀行 mini　＃7</sub-title>
     <desc lang="jp">とっておき 車窓紀行 mini　＃7</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230825190000 +0000" stop="20230825193000 +0000">
     <title lang="jp">とっておき 車窓紀行 mini</title>
     <sub-title lang="jp">とっておき 車窓紀行 mini　＃5</sub-title>
     <desc lang="jp">とっておき 車窓紀行 mini　＃5</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230825193000 +0000" stop="20230825200000 +0000">
     <title lang="jp">これなら満足！快適ショッピング</title>
@@ -8873,22 +8811,22 @@
     <title lang="jp">世界の船旅</title>
     <sub-title lang="jp">世界の船旅　「超高級客船で巡る グルメと癒しの東南アジア」</sub-title>
     <desc lang="jp">世界の船旅　「超高級客船で巡る グルメと癒しの東南アジア」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/22355/20201001/400x300/9490c4866cd2420a9f96b68641afebec.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826005500 +0000" stop="20230826010000 +0000">
     <title lang="jp">飛鳥物語</title>
     <sub-title lang="jp">飛鳥物語　「新造客船建造に向けて」</sub-title>
     <desc lang="jp">飛鳥物語　「新造客船建造に向けて」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826010000 +0000" stop="20230826015500 +0000">
     <title lang="jp">ショップチャンネル　お買い物エンターテインメント</title>
@@ -8932,10 +8870,10 @@
     <desc lang="jp">徹子の部屋　【ゲスト】海老名香葉子</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/238588/20201001/720x540/c65e9bbc9ec54ea19edfdde5e4d13c74.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826040000 +0000" stop="20230826050000 +0000">
@@ -8953,10 +8891,10 @@
     <title lang="jp">魚が食べたい!-地魚さがして3000港-</title>
     <sub-title lang="jp">魚が食べたい！　「静岡・西伊豆の地魚1本釣りで18種類の刺身を堪能」</sub-title>
     <desc lang="jp">魚が食べたい！　「静岡・西伊豆の地魚1本釣りで18種類の刺身を堪能」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
   </programme>
@@ -9025,19 +8963,19 @@
     <title lang="jp">トップの源流</title>
     <sub-title lang="jp">トップの源流　＃21</sub-title>
     <desc lang="jp">トップの源流　＃21</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826093000 +0000" stop="20230826100000 +0000">
     <title lang="jp">バトンタッチ SDGsはじめてます</title>
     <sub-title lang="jp">バトンタッチ SDGsはじめてます　「サッカー選手 LGBTQIA+ 下山田志帆さん」</sub-title>
     <desc lang="jp">バトンタッチ SDGsはじめてます　「サッカー選手 LGBTQIA+ 下山田志帆さん」</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtwCXOGwAE/20230821/1920x1080/5ca86a0b-d5b1-4787-832f-c969a0224024.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826100000 +0000" stop="20230826115400 +0000">
@@ -9053,12 +8991,12 @@
     <title lang="jp">Fresh Faces</title>
     <sub-title lang="jp">Fresh　Faces　＃434 立花祐平</sub-title>
     <desc lang="jp">Fresh　Faces　＃434 立花祐平</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826120000 +0000" stop="20230826135400 +0000">
     <title lang="jp">遺留捜査</title>
@@ -9080,10 +9018,10 @@
     <title lang="jp">自分流〜“知”の探求者たち〜</title>
     <sub-title lang="jp">自分流　「笹原潤（帝京大学スポーツ医科学センター准教授、整形外科医）」</sub-title>
     <desc lang="jp">自分流　「笹原潤（帝京大学スポーツ医科学センター准教授、整形外科医）」</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtwCXOHEAE/20230821/2160x1288/79b306a5-a0bf-48db-b941-50bf18b1d640.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826143000 +0000" stop="20230826150000 +0000">
@@ -9111,45 +9049,45 @@
     <title lang="jp">とっておき 車窓紀行 mini</title>
     <sub-title lang="jp">とっておき 車窓紀行 mini　＃1</sub-title>
     <desc lang="jp">とっておき 車窓紀行 mini　＃1</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826170000 +0000" stop="20230826180000 +0000">
     <title lang="jp">京の絶景</title>
     <sub-title lang="jp">京の絶景　＃4「京の四季」</sub-title>
     <desc lang="jp">京の絶景　＃4「京の四季」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826180000 +0000" stop="20230826190000 +0000">
     <title lang="jp">とっておき 車窓紀行</title>
     <sub-title lang="jp">とっておき 車窓紀行　＃17「爛漫の春！桜の園を行く 奈良 まほろばの里めぐり」</sub-title>
     <desc lang="jp">とっておき 車窓紀行　＃17「爛漫の春！桜の園を行く 奈良 まほろばの里めぐり」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826190000 +0000" stop="20230826193000 +0000">
     <title lang="jp">とっておき 車窓紀行 mini</title>
     <sub-title lang="jp">とっておき 車窓紀行 mini　＃7</sub-title>
     <desc lang="jp">とっておき 車窓紀行 mini　＃7</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826193000 +0000" stop="20230826200000 +0000">
     <title lang="jp">これなら満足！快適ショッピング</title>
@@ -9194,21 +9132,21 @@
     <desc lang="jp">題名のない音楽会　「古くて新しい！もう1つのショパン国際コンクールの音楽会」</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230826233000 +0000" stop="20230827000000 +0000">
     <title lang="jp">渡辺篤史の建もの探訪</title>
     <sub-title lang="jp">渡辺篤史の建もの探訪　「どこでも遊べる 段々テラスの家」東京都杉並区・石尾邸</sub-title>
     <desc lang="jp">渡辺篤史の建もの探訪　「どこでも遊べる 段々テラスの家」東京都杉並区・石尾邸</desc>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230827000000 +0000" stop="20230827003000 +0000">
     <title lang="jp">レッツ５！ショッピング</title>
@@ -9297,12 +9235,12 @@
     <title lang="jp">ウチ、“断捨離”しました!</title>
     <sub-title lang="jp">ウチ、“断捨離”しました！　「私が全部やるの？会話なき夫婦の10年戦争」</sub-title>
     <desc lang="jp">ウチ、“断捨離”しました！　「私が全部やるの？会話なき夫婦の10年戦争」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230827060000 +0000" stop="20230827065400 +0000">
     <title lang="jp">お助け!おうちの達人</title>
@@ -9351,10 +9289,10 @@
     <title lang="jp">未来につなぐエール</title>
     <sub-title lang="jp">未来につなぐエール</sub-title>
     <desc lang="jp">未来につなぐエール</desc>
-    <category lang="jp">福祉</category>
-    <category lang="en">Welfare</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">福祉</category>
+    <category lang="en">Welfare</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230827100000 +0000" stop="20230827115400 +0000">
     <title lang="jp">BS朝日 日曜スクープ</title>
@@ -9418,12 +9356,12 @@
     <title lang="jp">京の絶景 mini</title>
     <sub-title lang="jp">京の絶景 mini　＃5「京の春・秋」</sub-title>
     <desc lang="jp">京の絶景 mini　＃5「京の春・秋」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">福祉</category>
     <category lang="en">Welfare</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
   </programme>
   <programme channel="cloventt-jp-bsasahi" start="20230827173000 +0000" stop="20230827173100 +0000">
     <title lang="jp">クロージング</title>
@@ -9470,22 +9408,13 @@
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme channel="cloventt-jp-bstbs" start="20230823225400 +0000" stop="20230823230000 +0000">
-    <title lang="jp">情報セレクト</title>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme channel="cloventt-jp-bstbs" start="20230823230000 +0000" stop="20230823233000 +0000">
-    <title lang="jp">むかしばなしのおへや</title>
-    <sub-title lang="jp">むかしばなしのおへや▽「俵藤太のおおむかで退治」「舞田のおくり犬」「ほれぐすり」</sub-title>
-    <desc lang="jp">むかしばなしのおへや▽「俵藤太のおおむかで退治」「舞田のおくり犬」「ほれぐすり」</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
-    <category lang="jp">アニメ／特撮</category>
-    <category lang="en">Animated</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
-    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/593916/20230711/1440x810/fec2c959-5fbb-4eab-a7f4-724faf86b7ce.jpg" />
+  <programme channel="cloventt-jp-bsasahi" start="20230827233000 +0000" stop="20230828010000 +0000">
+    <title lang="jp">チェックメイト!〜正義の番人〜</title>
+    <sub-title lang="jp">韓国ドラマ「チェックメイト！〜正義の番人〜」　第7話【全14話／日本語字幕版】</sub-title>
+    <desc lang="jp">韓国ドラマ「チェックメイト！〜正義の番人〜」　第7話【全14話／日本語字幕版】</desc>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhuQCXOg0AE/20230821/1698x956/97be1422-a412-4c58-9478-25f60d7ceb11.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230823233000 +0000" stop="20230824000000 +0000">
     <title lang="jp">おはよう！買物列島</title>
@@ -9579,10 +9508,10 @@
     <title lang="jp">元気の守り神</title>
     <sub-title lang="jp">元気の守り神▼要町駅前クリニック　堀祐太郎先生（後編）</sub-title>
     <desc lang="jp">元気の守り神▼要町駅前クリニック　堀祐太郎先生（後編）</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230824120000 +0000" stop="20230824125400 +0000">
     <title lang="jp">昭和歌謡ベストテンDX</title>
@@ -9601,12 +9530,12 @@
     <title lang="jp">釣り百景</title>
     <sub-title lang="jp">釣り百景【　美しき天然遡上鮎に歓喜！北海道厚沢部川の友釣り　】</sub-title>
     <desc lang="jp">釣り百景【　美しき天然遡上鮎に歓喜！北海道厚沢部川の友釣り　】</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/125614/20201001/720x540/6b6ed5a832f64a3db7788dfcc53ebb56.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230824135400 +0000" stop="20230824140000 +0000">
@@ -9710,12 +9639,12 @@
     <title lang="jp">むかしばなしのおへや</title>
     <sub-title lang="jp">むかしばなしのおへや▽「鼻取り地蔵」「狐と狸の寄り合い田」「けやきの大木」</sub-title>
     <desc lang="jp">むかしばなしのおへや▽「鼻取り地蔵」「狐と狸の寄り合い田」「けやきの大木」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">アニメ／特撮</category>
     <category lang="en">Animated</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/593916/20230711/1440x810/fec2c959-5fbb-4eab-a7f4-724faf86b7ce.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230824233000 +0000" stop="20230825000000 +0000">
@@ -9817,10 +9746,10 @@
     <title lang="jp">走る別荘!車中泊の旅</title>
     <sub-title lang="jp">走る別荘！車中泊の旅▽雲上の秘湯！蓮華温泉を目指す夏の信州</sub-title>
     <desc lang="jp">走る別荘！車中泊の旅▽雲上の秘湯！蓮華温泉を目指す夏の信州</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/667602/20230407/1440x810/12c5aa1a-3c2f-4d57-bc61-532e303213e0.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230825125400 +0000" stop="20230825130000 +0000">
@@ -9842,19 +9771,19 @@
     <title lang="jp">世界の窓</title>
     <sub-title lang="jp">世界の窓▼イタリア／シチリア島「太鼓の大将」</sub-title>
     <desc lang="jp">世界の窓▼イタリア／シチリア島「太鼓の大将」</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230825140000 +0000" stop="20230825150000 +0000">
     <title lang="jp">おんな酒場放浪記</title>
     <sub-title lang="jp">おんな酒場放浪記▼十日市場「藁」</sub-title>
     <desc lang="jp">おんな酒場放浪記▼十日市場「藁」</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/34407/20201001/720x540/2f90204a2e1b4f6b87aa282425b4cdc9.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230825150000 +0000" stop="20230825160000 +0000">
@@ -10022,10 +9951,10 @@
     <title lang="jp">ゴルフONE</title>
     <sub-title lang="jp">ゴルフＯＮＥ▼仲良し同学年女子プロ対決②</sub-title>
     <desc lang="jp">ゴルフＯＮＥ▼仲良し同学年女子プロ対決②</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/715594/20220412/720x405/02921513c48844a9a916b7d2de1e2dce.jpg" />
@@ -10131,10 +10060,10 @@
     <title lang="jp">京都はんなり紀行</title>
     <sub-title lang="jp">京都はんなり紀行「涼」</sub-title>
     <desc lang="jp">京都はんなり紀行「涼」</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230826213000 +0000" stop="20230826220000 +0000">
     <title lang="jp">おめざめショッピング</title>
@@ -10173,12 +10102,12 @@
     <title lang="jp">むかしばなしのおへや</title>
     <sub-title lang="jp">むかしばなしのおへや▽「ざしきわらし」「石抱き」「化け猫退治」</sub-title>
     <desc lang="jp">むかしばなしのおへや▽「ざしきわらし」「石抱き」「化け猫退治」</desc>
+    <category lang="jp">ドキュメンタリー／教養</category>
+    <category lang="en">Educational</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
     <category lang="jp">アニメ／特撮</category>
     <category lang="en">Animated</category>
-    <category lang="jp">ドキュメンタリー／教養</category>
-    <category lang="en">Educational</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/593916/20230711/1440x810/fec2c959-5fbb-4eab-a7f4-724faf86b7ce.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230827023000 +0000" stop="20230827025400 +0000">
@@ -10187,10 +10116,10 @@
     <desc lang="jp">こころめぐり逢い　二胡と匠の旅▼独特の世界観と卓越した技</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/717400/20230718/1440x810/846cbbc8-cd72-45ae-8afc-d0e817e0e023.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230827025400 +0000" stop="20230827030000 +0000">
@@ -10253,10 +10182,10 @@
     <title lang="jp">美しい日本に出会う旅</title>
     <sub-title lang="jp">美しい日本に出会う旅▼夏旅！横浜・鎌倉・三浦半島へ</sub-title>
     <desc lang="jp">美しい日本に出会う旅▼夏旅！横浜・鎌倉・三浦半島へ</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/39670/20211006/720x405/5506a83c1e2c4624afbbb0576644a9e9.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstbs" start="20230827095400 +0000" stop="20230827100000 +0000">
@@ -10385,13 +10314,13 @@
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme channel="cloventt-jp-bstvtokyo" start="20230823225500 +0000" stop="20230823232400 +0000">
-    <title lang="jp">幸せお届け便</title>
+  <programme channel="cloventt-jp-bstbs" start="20230827233000 +0000" stop="20230828000000 +0000">
+    <title lang="jp">おはよう！買物列島</title>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme channel="cloventt-jp-bstvtokyo" start="20230823232400 +0000" stop="20230823235300 +0000">
-    <title lang="jp">美と健康のショッピング</title>
+  <programme channel="cloventt-jp-bstbs" start="20230828000000 +0000" stop="20230828005900 +0000">
+    <title lang="jp">麗しの宝石　ショッピング</title>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
@@ -10471,12 +10400,12 @@
     <title lang="jp">開運!なんでも鑑定団</title>
     <sub-title lang="jp">開運！なんでも鑑定団【日向坂46も仰天＜江戸秘宝＞＆昭和レトロ玩具】</sub-title>
     <desc lang="jp">開運！なんでも鑑定団【日向坂46も仰天＜江戸秘宝＞＆昭和レトロ玩具】</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/29918/20210423/720x405/cd7aec26b4e74aa9bfc693f58b642e2f.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230824114900 +0000" stop="20230824115400 +0000">
@@ -10587,10 +10516,10 @@
     <title lang="jp">ギア魂</title>
     <sub-title lang="jp">ギア魂</sub-title>
     <desc lang="jp">ギア魂</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230824204500 +0000" stop="20230824220500 +0000">
     <title lang="jp">モーサテ</title>
@@ -10712,10 +10641,10 @@
     <title lang="jp">武田鉄矢の昭和は輝いていた</title>
     <sub-title lang="jp">武田鉄矢の昭和は輝いていた【２大事件とアイドル全盛の昭和５７年】</sub-title>
     <desc lang="jp">武田鉄矢の昭和は輝いていた【２大事件とアイドル全盛の昭和５７年】</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtgCrpikAE/20230821/720x479/ad108a3c8de84ee59f825c6a60a1e857.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230825115400 +0000" stop="20230825120000 +0000">
@@ -10764,10 +10693,10 @@
     <title lang="jp">東京パソコンクラブ〜プログラミング女子のゼロからゲーム作り〜</title>
     <sub-title lang="jp">東京パソコンクラブ〜プログラミング女子のゼロからゲーム作り〜</sub-title>
     <desc lang="jp">東京パソコンクラブ〜プログラミング女子のゼロからゲーム作り〜</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/718412/20230602/720x403/9c38fb95fbfc490696fdbc21e019e651.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230825153000 +0000" stop="20230825155900 +0000">
@@ -10861,10 +10790,10 @@
     <desc lang="jp">エンター・ザ・ミュージック▼DJ　OSSHY×管弦楽で楽しむディスコ音楽特集</desc>
     <category lang="jp">音楽</category>
     <category lang="en">Music</category>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">趣味／教育</category>
     <category lang="en">Hobbies</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/201114/20201221/720x540/69b6390fd64741b69a7481be438134fe.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230826000000 +0000" stop="20230826003000 +0000">
@@ -10981,10 +10910,10 @@
     <desc lang="jp">飯尾和樹の『ずん喫茶』＜千葉松戸＞でパスタセットに特製ケーキもつけて大満足〜！</desc>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/682901/20220412/720x540/a46132eb1ac84b50b3a7fb5c4f9aee12.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230826133000 +0000" stop="20230826135400 +0000">
@@ -11013,10 +10942,10 @@
     <title lang="jp">新美の巨人たち</title>
     <sub-title lang="jp">新美の巨人たち　丹下健三「広島平和記念公園」×戸田菜穂</sub-title>
     <desc lang="jp">新美の巨人たち　丹下健三「広島平和記念公園」×戸田菜穂</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/co/AhtwCrplUAE/20230821/1920x1080/ffece0cb-2599-4eab-abe7-7980398f4858.jpg" />
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230826150000 +0000" stop="20230826153000 +0000">
@@ -11035,10 +10964,10 @@
     <title lang="jp">みんなのスポーツ</title>
     <sub-title lang="jp">みんなのスポーツ▽MLB野球＆サッカー＆五輪種目を深掘り</sub-title>
     <desc lang="jp">みんなのスポーツ▽MLB野球＆サッカー＆五輪種目を深掘り</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230826163000 +0000" stop="20230826163500 +0000">
     <title lang="jp">Dの旋律〜ダンスと音楽のシンフォニー〜</title>
@@ -11056,10 +10985,10 @@
     <title lang="jp">ギア魂</title>
     <sub-title lang="jp">ギア魂</sub-title>
     <desc lang="jp">ギア魂</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230826173000 +0000" stop="20230826180000 +0000">
     <title lang="jp">美と健康のショッピング</title>
@@ -11114,10 +11043,10 @@
     <title lang="jp">ゴルフ交遊抄</title>
     <sub-title lang="jp">ゴルフ交遊抄【今井雅則×三村明夫】</sub-title>
     <desc lang="jp">ゴルフ交遊抄【今井雅則×三村明夫】</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230826230000 +0000" stop="20230827000000 +0000">
     <title lang="jp">ゴルフ侍、見参!</title>
@@ -11193,10 +11122,10 @@
     <title lang="jp">武田鉄矢の昭和は輝いていた</title>
     <sub-title lang="jp">武田鉄矢の昭和は輝いていた【哀愁の演歌ギター・木村好夫】</sub-title>
     <desc lang="jp">武田鉄矢の昭和は輝いていた【哀愁の演歌ギター・木村好夫】</desc>
-    <category lang="jp">バラエティ</category>
-    <category lang="en">Variety</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">バラエティ</category>
+    <category lang="en">Variety</category>
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230827073000 +0000" stop="20230827083000 +0000">
     <title lang="jp">ハーフタイムツアーズ</title>
@@ -11271,10 +11200,10 @@
     <title lang="jp">辰巳琢郎の葡萄酒浪漫</title>
     <sub-title lang="jp">辰巳琢郎の葡萄酒浪漫【ゲスト：中嶋彰子、平山浩行】</sub-title>
     <desc lang="jp">辰巳琢郎の葡萄酒浪漫【ゲスト：中嶋彰子、平山浩行】</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230827143000 +0000" stop="20230827150000 +0000">
     <title lang="jp">美と健康のショッピング</title>
@@ -11330,10 +11259,10 @@
     <title lang="jp">シネマ・アディクト</title>
     <sub-title lang="jp">シネマアディクト〈渡邉美穂が巡る寅さんの故郷〉①</sub-title>
     <desc lang="jp">シネマアディクト〈渡邉美穂が巡る寅さんの故郷〉①</desc>
-    <category lang="jp">映画</category>
-    <category lang="en">Movie</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">映画</category>
+    <category lang="en">Movie</category>
   </programme>
   <programme channel="cloventt-jp-bstvtokyo" start="20230827180000 +0000" stop="20230827195100 +0000">
     <title lang="jp">番組のデータがありません</title>
@@ -11370,10 +11299,18 @@
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme channel="cloventt-jp-bsfujitv" start="20230823225900 +0000" stop="20230823232800 +0000">
-    <title lang="jp">ディレクタステレビショッピング</title>
+  <programme channel="cloventt-jp-bstvtokyo" start="20230827232400 +0000" stop="20230827235300 +0000">
+    <title lang="jp">テレビショッピング</title>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+  </programme>
+  <programme channel="cloventt-jp-bstvtokyo" start="20230827235300 +0000" stop="20230828005900 +0000">
+    <title lang="jp">人生最高の贈り物〜ようこそ、サムグァンハウスへ〜</title>
+    <sub-title lang="jp">韓ドラ☆人生最高の贈り物　＃５３</sub-title>
+    <desc lang="jp">韓ドラ☆人生最高の贈り物　＃５３</desc>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
+    <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/799079/20230601/382x540/a180381ce87c496e94f3c3440a4a3751.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsfujitv" start="20230823232800 +0000" stop="20230824000000 +0000">
     <title lang="jp">ジャパネットたかたテレビショッピング</title>
@@ -11472,10 +11409,10 @@
     <title lang="jp">FISHING in my life</title>
     <sub-title lang="jp">FISHING in my life</sub-title>
     <desc lang="jp">FISHING in my life</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/787238/20230330/720x405/9870846d0a3847a1a8953e54c427558e.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsfujitv" start="20230824130000 +0000" stop="20230824135500 +0000">
@@ -11795,10 +11732,10 @@
     <title lang="jp">ワールドツアー</title>
     <sub-title lang="jp">ワールドツアー　世界の美術館</sub-title>
     <desc lang="jp">ワールドツアー　世界の美術館</desc>
-    <category lang="jp">趣味／教育</category>
-    <category lang="en">Hobbies</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">趣味／教育</category>
+    <category lang="en">Hobbies</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/160452/20201001/720x540/22597c2996984daa917f1bdc10a4a62f.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsfujitv" start="20230825193000 +0000" stop="20230825195500 +0000">
@@ -12000,10 +11937,10 @@
     <title lang="jp">小山薫堂・東京会議</title>
     <sub-title lang="jp">小山薫堂・東京会議　第342回「完成した落下物アートを見る！」</sub-title>
     <desc lang="jp">小山薫堂・東京会議　第342回「完成した落下物アートを見る！」</desc>
-    <category lang="jp">情報／ワイドショー</category>
-    <category lang="en">Infotainment</category>
     <category lang="jp">ドキュメンタリー／教養</category>
     <category lang="en">Educational</category>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/246033/20201001/720x540/d53f34e1a1b54f3597870bfe8cade602.jpg" />
   </programme>
   <programme channel="cloventt-jp-bsfujitv" start="20230826153000 +0000" stop="20230826160000 +0000">
@@ -12180,10 +12117,10 @@
     <title lang="jp">DEEP・ゴルフ</title>
     <sub-title lang="jp">ＤＥＥＰ・ゴルフ　杉澤伸章プロキャディーが宮里優作プロとの感動の初優勝を振り返る</sub-title>
     <desc lang="jp">ＤＥＥＰ・ゴルフ　杉澤伸章プロキャディーが宮里優作プロとの感動の初優勝を振り返る</desc>
-    <category lang="jp">スポーツ</category>
-    <category lang="en">Sports</category>
     <category lang="jp">バラエティ</category>
     <category lang="en">Variety</category>
+    <category lang="jp">スポーツ</category>
+    <category lang="en">Sports</category>
     <icon src="https://tv-pctr.c.yimg.jp/d/tv-image/pgm/787922/20230402/720x405/280ce2f19fbe484e87773cac35025070.png" />
   </programme>
   <programme channel="cloventt-jp-bsfujitv" start="20230827123000 +0000" stop="20230827130000 +0000">
@@ -12331,5 +12268,17 @@
     <desc lang="jp">わくわくビューティー</desc>
     <category lang="jp">情報／ワイドショー</category>
     <category lang="en">Infotainment</category>
+  </programme>
+  <programme channel="cloventt-jp-bsfujitv" start="20230827232800 +0000" stop="20230828000000 +0000">
+    <title lang="jp">りらいぶテレビショッピング</title>
+    <category lang="jp">情報／ワイドショー</category>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme channel="cloventt-jp-bsfujitv" start="20230828000000 +0000" stop="20230828010000 +0000">
+    <title lang="jp">鬼平犯科帳'71</title>
+    <sub-title lang="jp">＜時代劇＞鬼平犯科帳’７１　第１３話「雨乞い庄右衛門」</sub-title>
+    <desc lang="jp">＜時代劇＞鬼平犯科帳’７１　第１３話「雨乞い庄右衛門」</desc>
+    <category lang="jp">ドラマ</category>
+    <category lang="en">Drama</category>
   </programme>
 </tv>
